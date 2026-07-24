@@ -103,6 +103,49 @@
 ***
 ***
 
+# [🎨 UI tools](https://canvasui.dev/)
+
+**Canvas / WebGL UI libraries and components**
+
+* [Canvas UI](https://canvasui.dev/) - Creative canvas and WebGL component library
+* [HeroUI](https://github.com/heroui-inc/heroui) - Beautiful, fast, modern React UI library
+* [ASCII Effect (Componentry)](https://componentry.dev/docs/components/ascii-effect) - React ASCII image/effect component
+
+***
+***
+
+# ✨ AI tools
+
+**Local agents, AI canvases, and related tools**
+
+* [Penecho](https://github.com/penecho/penecho) - Shared AI canvas for handwriting, equations, and diagrams
+* [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) - Local-first AI agent optimized for on-device models
+
+***
+***
+
+# 📖 Study material
+
+**Articles, threads, and deep dives worth reading**
+
+* [PyTorch Internals](https://blog.ezyang.com/2019/05/pytorch-internals/) - Long-form guide to how PyTorch works under the hood
+* [Alacritic Super thread](https://x.com/alacritic_super/status/2079548977532571792?s=46) - AI / systems thread to explore
+
+### LLM Cache Management
+
+* [KV Cache (Hugging Face)](https://huggingface.co/docs/transformers/en/kv_cache) - Transformers KV cache strategies
+* [Paged Attention from First Principles](https://hamzaelshafie.bearblog.dev/paged-attention-from-first-principles-a-view-inside-vllm/) - How PagedAttention works inside vLLM
+* [Automatic Prefix Caching (vLLM)](https://docs.vllm.ai/en/latest/features/automatic_prefix_caching/) - Reuse KV cache across shared prompt prefixes
+* [Continuous Batching (Anyscale)](https://www.anyscale.com/blog/continuous-batching-llm-inference) - Iteration-level batching for higher throughput
+* [Looking Back at Speculative Decoding](https://research.google/blog/looking-back-at-speculative-decoding/) - Google Research on speculative decoding
+* [KV Cache Quantization (Hugging Face)](https://huggingface.co/blog/kv-cache-quantization) - Compress KV cache for longer generations
+* [FlashInfer](https://arxiv.org/abs/2501.01005) - Attention engine paper
+* [Zipage](https://arxiv.org/abs/2603.08743) - Compressed PagedAttention paper
+* [IceCache](https://arxiv.org/abs/2604.10539) - Memory-efficient KV cache paper
+
+***
+***
+
 # [📑 Changelog](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/1pl8vl0/fmhy_changelog/)
 
 **Recent Additions and Updates**
