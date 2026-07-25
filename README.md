@@ -130,6 +130,8 @@
 
 * [PyTorch Internals](https://blog.ezyang.com/2019/05/pytorch-internals/) - Long-form guide to how PyTorch works under the hood
 * [Alacritic Super thread](https://x.com/alacritic_super/status/2079548977532571792?s=46) - AI / systems thread to explore
+* [LLM Inference Handbook (Modular)](https://handbook.modular.com/) - Glossary, guidebook, and reference for production LLM inference
+* [Outperforming cuBLAS on B200](https://www.paulwillchan.com/articles/outperforming-cublas-b200) - Blackwell matmul kernel optimizations vs cuBLAS
 
 ### LLM Cache Management
 
