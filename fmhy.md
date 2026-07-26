@@ -110,6 +110,7 @@
 * [Canvas UI](https://canvasui.dev/) - Creative canvas and WebGL component library
 * [HeroUI](https://github.com/heroui-inc/heroui) - Beautiful, fast, modern React UI library
 * [ASCII Effect (Componentry)](https://componentry.dev/docs/components/ascii-effect) - React ASCII image/effect component
+* [Transitions.dev](https://transitions.dev/) - Essential UI transitions for web apps
 
 ***
 ***
@@ -132,6 +133,8 @@
 * [Alacritic Super thread](https://x.com/alacritic_super/status/2079548977532571792?s=46) - AI / systems thread to explore
 * [LLM Inference Handbook (Modular)](https://handbook.modular.com/) - Glossary, guidebook, and reference for production LLM inference
 * [Outperforming cuBLAS on B200](https://www.paulwillchan.com/articles/outperforming-cublas-b200) - Blackwell matmul kernel optimizations vs cuBLAS
+* [Quantizing to NF4 with AVX-512](https://www.cudahandbook.com/blog/quantizing-to-nf4-with-avx-512) - Fast NF4 quantization using AVX-512 (CUDA Handbook)
+* [Graph Engineering (Andrej Karpathy)](https://drive.google.com/file/d/1-GOg0kxcp8tx1BMUECMj2yJq6JYGmfhb/view) - Graph engineering notes / material
 
 ### LLM Cache Management
 
