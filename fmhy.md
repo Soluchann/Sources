@@ -149,6 +149,7 @@
 * [Outperforming cuBLAS on B200](https://www.paulwillchan.com/articles/outperforming-cublas-b200) - Blackwell matmul kernel optimizations vs cuBLAS
 * [Quantizing to NF4 with AVX-512](https://www.cudahandbook.com/blog/quantizing-to-nf4-with-avx-512) - Fast NF4 quantization using AVX-512 (CUDA Handbook)
 * [Graph Engineering (Andrej Karpathy)](https://drive.google.com/file/d/1-GOg0kxcp8tx1BMUECMj2yJq6JYGmfhb/view) - Graph engineering notes / material
+* [Knowledge Graph Course](https://github.com/npubird/KnowledgeGraphCourse) - Southeast University graduate course on knowledge graphs
 * [How to Scale Your Model](https://jax-ml.github.io/scaling-book/) - Systems view of LLMs on TPUs (Google DeepMind)
 * [How to Think About GPUs](https://jax-ml.github.io/scaling-book/gpus/) - GPU systems chapter from the scaling book
 * [Waterloo Intern thread](https://x.com/waterloo_intern/status/2081762065392541951?s=46) - X thread to explore
