@@ -113,6 +113,18 @@
 * [Transitions.dev](https://transitions.dev/) - Essential UI transitions for web apps
 * [Content Architecture](https://www.contentarchitecture.dev/) - Next.js + Sanity kit built for agentic development
 * [Bakai Lab](https://www.bakai.me/lab) - Interactive UI lab (sidebars, product interfaces)
+* [p5 Tweet Art Playground](https://emptyprotocol.github.io/p5-tweet-art/playground.html) - Interactive one-tweet p5.js generative art playground
+
+### GitHub Profile
+
+* [Profile README Generator](https://profile-readme-generator.com) - Build your GitHub profile README
+* [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically generated GitHub stats for READMEs
+* [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) - Contribution streak cards for profile READMEs
+* [Shields.io](https://shields.io) - Badges for GitHub profiles and projects
+* [Capsule Render](https://github.com/kyechan99/capsule-render) - Dynamic capsule/header images for READMEs
+* [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) - Dynamically generated GitHub trophies
+* [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - Summary cards for profile READMEs
+* [Visitor Badge](https://visitorbadge.io) - Profile / repo visitor count badges
 
 ***
 ***
