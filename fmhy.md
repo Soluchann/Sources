@@ -110,6 +110,7 @@
 * [Canvas UI](https://canvasui.dev/) - Creative canvas and WebGL component library
 * [HeroUI](https://github.com/heroui-inc/heroui) - Beautiful, fast, modern React UI library
 * [ASCII Effect (Componentry)](https://componentry.dev/docs/components/ascii-effect) - React ASCII image/effect component
+* [ASCII Magic](https://www.ascii-magic.com/landing) - Free image & video to ASCII / pixel / glitch art in the browser
 * [Transitions.dev](https://transitions.dev/) - Essential UI transitions for web apps
 * [Content Architecture](https://www.contentarchitecture.dev/) - Next.js + Sanity kit built for agentic development
 * [Bakai Lab](https://www.bakai.me/lab) - Interactive UI lab (sidebars, product interfaces)
@@ -135,6 +136,8 @@
 
 * [Penecho](https://github.com/penecho/penecho) - Shared AI canvas for handwriting, equations, and diagrams
 * [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) - Local-first AI agent optimized for on-device models
+* [ThunderAgent](https://github.com/ThunderAgent-org/ThunderAgent) - Simple, fast, program-aware agentic inference system
+* [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - Team-level memory hub for AI agents (chat, skills, wiki, code-graph)
 
 ***
 ***
