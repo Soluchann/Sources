@@ -138,6 +138,7 @@
 * [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) - Local-first AI agent optimized for on-device models
 * [ThunderAgent](https://github.com/ThunderAgent-org/ThunderAgent) - Simple, fast, program-aware agentic inference system
 * [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - Team-level memory hub for AI agents (chat, skills, wiki, code-graph)
+* [PixelRAG](https://github.com/StarTrail-org/PixelRAG) - Pixel-native search / RAG (skip traditional web parsing)
 
 ***
 ***
@@ -157,6 +158,7 @@
 * [How to Think About GPUs](https://jax-ml.github.io/scaling-book/gpus/) - GPU systems chapter from the scaling book
 * [Waterloo Intern thread](https://x.com/waterloo_intern/status/2081762065392541951?s=46) - X thread to explore
 * [ML Systems Notes](https://github.com/JINO-ROHIT/ml-systems-notes) - Personal notes collection for ML systems
+* [AI Engineering Book (Chip Huyen)](https://github.com/chiphuyen/aie-book) - Resources and supporting materials for AI Engineering
 
 ### LLM Cache Management
 
