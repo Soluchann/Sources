@@ -1,0 +1,18 @@
+{
+  "buildCommand": "cd site && pnpm docs:build",
+  "outputDirectory": "site/docs/.vitepress/dist",
+  "installCommand": "cd site && pnpm install --frozen-lockfile",
+  "framework": null,
+  "cleanUrls": true,
+  "headers": [
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "max-age=31536000, immutable"
+        }
+      ]
+    }
+  ]
+}
