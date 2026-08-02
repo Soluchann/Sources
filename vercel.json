@@ -1,7 +1,7 @@
 {
-  "buildCommand": "cd site && pnpm docs:build",
+  "buildCommand": "cd site && npx --yes pnpm@10.12.2 docs:build",
   "outputDirectory": "site/docs/.vitepress/dist",
-  "installCommand": "npm install -g pnpm@10.12.2 && cd site && pnpm install --frozen-lockfile",
+  "installCommand": "cd site && npx --yes pnpm@10.12.2 install --frozen-lockfile",
   "framework": null,
   "cleanUrls": true,
   "headers": [
