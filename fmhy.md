@@ -23,6 +23,8 @@
 
 **Stream Videos, Download Videos, Torrent Videos**
 
+* [Subtitle Cat](https://www.subtitlecat.com/) - Multilingual subtitle search and translation
+
 ***
 ***
 
@@ -159,6 +161,7 @@
 * [Waterloo Intern thread](https://x.com/waterloo_intern/status/2081762065392541951?s=46) - X thread to explore
 * [ML Systems Notes](https://github.com/JINO-ROHIT/ml-systems-notes) - Personal notes collection for ML systems
 * [AI Engineering Book (Chip Huyen)](https://github.com/chiphuyen/aie-book) - Resources and supporting materials for AI Engineering
+* [Seeing Theory](https://seeing-theory.brown.edu/#firstPage) - Visual introduction to probability and statistics
 
 ### LLM Cache Management
 
