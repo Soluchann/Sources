@@ -1,0 +1,12 @@
+{
+  "name": "sources",
+  "private": true,
+  "packageManager": "pnpm@10.12.2",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "build": "cd site && pnpm docs:build",
+    "install:site": "cd site && pnpm install --frozen-lockfile"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "buildCommand": "pnpm docs:build",
   "outputDirectory": "docs/.vitepress/dist",
-  "installCommand": "corepack enable && corepack prepare pnpm@10.12.2 --activate && pnpm install --frozen-lockfile",
+  "installCommand": "npm install -g pnpm@10.12.2 && pnpm install --frozen-lockfile",
   "framework": null,
   "cleanUrls": true,
   "headers": [

@@ -8,7 +8,7 @@ This `site/` folder is a rebranded VitePress instance based on [fmhy/edit](https
 2. Go to [vercel.com/new](https://vercel.com/new) and import the repo.
 3. Use these settings (root of repo):
    - **Framework Preset:** Other
-   - **Install Command:** `corepack enable && corepack prepare pnpm@10.12.2 --activate && cd site && pnpm install --frozen-lockfile`
+   - **Install Command:** `npm install -g pnpm@10.12.2 && cd site && pnpm install --frozen-lockfile`
    - **Build Command:** `cd site && pnpm docs:build`
    - **Output Directory:** `site/docs/.vitepress/dist`
    - **Node.js Version:** 22.x
@@ -19,9 +19,9 @@ This `site/` folder is a rebranded VitePress instance based on [fmhy/edit](https
 
 `vercel.json` at the repo root already encodes the install/build/output settings.
 
-### Why Corepack?
+### Why this install command?
 
-The site lockfile is **pnpm 10** (`lockfileVersion: '9.0'`). Vercel’s default pnpm is often older, so it ignores the lockfile and then fails with “Headless installation requires a pnpm-lock.yaml file”. Corepack forces pnpm `10.12.2` to match `packageManager` in `site/package.json`.
+The site lockfile is **pnpm 10**. Vercel’s default pnpm is often older, so it ignores the lockfile and fails. Installing `pnpm@10.12.2` with npm during the install step avoids Corepack issues.
 
 ## After deploy
 

@@ -1,11 +1,2 @@
-onlyBuiltDependencies:
-  - '@parcel/watcher'
-  - esbuild
-  - sharp
-  - simple-git-hooks
-  - vue-demi
-  - workerd
-peerDependencyRules:
-  ignoreMissing:
-    - '@algolia/client-search'
-    - search-insights
+packages:
+  - '.'
