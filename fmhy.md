@@ -117,6 +117,7 @@
 * [Content Architecture](https://www.contentarchitecture.dev/) - Next.js + Sanity kit built for agentic development
 * [Bakai Lab](https://www.bakai.me/lab) - Interactive UI lab (sidebars, product interfaces)
 * [p5 Tweet Art Playground](https://emptyprotocol.github.io/p5-tweet-art/playground.html) - Interactive one-tweet p5.js generative art playground
+* [Underleaf](https://underleaf.xyz/) - Beautiful documents / LaTeX-oriented writing tool
 
 ### GitHub Profile
 
@@ -141,6 +142,7 @@
 * [ThunderAgent](https://github.com/ThunderAgent-org/ThunderAgent) - Simple, fast, program-aware agentic inference system
 * [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - Team-level memory hub for AI agents (chat, skills, wiki, code-graph)
 * [PixelRAG](https://github.com/StarTrail-org/PixelRAG) - Pixel-native search / RAG (skip traditional web parsing)
+* [Qwen-CUA](https://github.com/xlang-ai/Qwen-CUA) - Screenshot-driven computer-use agent (keyboard + mouse)
 
 ***
 ***
@@ -162,6 +164,7 @@
 * [ML Systems Notes](https://github.com/JINO-ROHIT/ml-systems-notes) - Personal notes collection for ML systems
 * [AI Engineering Book (Chip Huyen)](https://github.com/chiphuyen/aie-book) - Resources and supporting materials for AI Engineering
 * [Seeing Theory](https://seeing-theory.brown.edu/#firstPage) - Visual introduction to probability and statistics
+* [GPU Glossary (Modal)](https://modal.com/gpu-glossary) - Glossary of GPU architecture and CUDA concepts
 
 ### LLM Cache Management
 

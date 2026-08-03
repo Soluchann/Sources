@@ -11,3 +11,4 @@
 * [ThunderAgent](https://github.com/ThunderAgent-org/ThunderAgent) - Simple, fast, program-aware agentic inference system
 * [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - Team-level memory hub for AI agents (chat, skills, wiki, code-graph)
 * [PixelRAG](https://github.com/StarTrail-org/PixelRAG) - Pixel-native search / RAG (skip traditional web parsing)
+* [Qwen-CUA](https://github.com/xlang-ai/Qwen-CUA) - Screenshot-driven computer-use agent (keyboard + mouse)

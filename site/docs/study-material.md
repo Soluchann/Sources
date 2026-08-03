@@ -19,6 +19,7 @@
 * [ML Systems Notes](https://github.com/JINO-ROHIT/ml-systems-notes) - Personal notes collection for ML systems
 * [AI Engineering Book (Chip Huyen)](https://github.com/chiphuyen/aie-book) - Resources and supporting materials for AI Engineering
 * [Seeing Theory](https://seeing-theory.brown.edu/#firstPage) - Visual introduction to probability and statistics
+* [GPU Glossary (Modal)](https://modal.com/gpu-glossary) - Glossary of GPU architecture and CUDA concepts
 
 ***
 
