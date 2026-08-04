@@ -1,0 +1,12 @@
+node_modules/
+site/node_modules/
+site/docs/.vitepress/cache/
+site/docs/.vitepress/dist/
+site/.output/
+site/.vercel/
+.DS_Store
+*.log
+preview/
+
+.git-temp/
+site/.git-temp/
