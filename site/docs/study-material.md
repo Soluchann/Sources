@@ -21,6 +21,7 @@
 * [Seeing Theory](https://seeing-theory.brown.edu/#firstPage) - Visual introduction to probability and statistics
 * [GPU Glossary (Modal)](https://modal.com/gpu-glossary) - Glossary of GPU architecture and CUDA concepts
 * [tcgen05](https://github.com/sf-tensor/tcgen05) - Bit-level software model of Blackwell Tensor Core MMA arithmetic
+* [Mixture-of-Kittens (Cursor)](https://cursor.com/blog/mixture-of-kittens) - Open-source MoE training megakernel for NVL72s
 
 ***
 

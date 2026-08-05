@@ -16,6 +16,8 @@
 * [p5 Tweet Art Playground](https://emptyprotocol.github.io/p5-tweet-art/playground.html) - Interactive one-tweet p5.js generative art playground
 * [Underleaf](https://underleaf.xyz/) - Beautiful documents / LaTeX-oriented writing tool
 * [Taste Skill](https://www.tasteskill.dev/) - Anti-slop frontend skill framework for AI coding agents
+* [Free Faces](https://www.freefaces.gallery/) - Curated collection of free-licensed typefaces
+* [Fontshare](https://www.fontshare.com/) - Quality free fonts from Indian Type Foundry
 
 ***
 

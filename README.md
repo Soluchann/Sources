@@ -119,6 +119,8 @@
 * [p5 Tweet Art Playground](https://emptyprotocol.github.io/p5-tweet-art/playground.html) - Interactive one-tweet p5.js generative art playground
 * [Underleaf](https://underleaf.xyz/) - Beautiful documents / LaTeX-oriented writing tool
 * [Taste Skill](https://www.tasteskill.dev/) - Anti-slop frontend skill framework for AI coding agents
+* [Free Faces](https://www.freefaces.gallery/) - Curated collection of free-licensed typefaces
+* [Fontshare](https://www.fontshare.com/) - Quality free fonts from Indian Type Foundry
 
 ### GitHub Profile
 
@@ -167,6 +169,7 @@
 * [Seeing Theory](https://seeing-theory.brown.edu/#firstPage) - Visual introduction to probability and statistics
 * [GPU Glossary (Modal)](https://modal.com/gpu-glossary) - Glossary of GPU architecture and CUDA concepts
 * [tcgen05](https://github.com/sf-tensor/tcgen05) - Bit-level software model of Blackwell Tensor Core MMA arithmetic
+* [Mixture-of-Kittens (Cursor)](https://cursor.com/blog/mixture-of-kittens) - Open-source MoE training megakernel for NVL72s
 
 ### LLM Cache Management
 
