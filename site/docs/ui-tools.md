@@ -15,6 +15,7 @@
 * [Bakai Lab](https://www.bakai.me/lab) - Interactive UI lab (sidebars, product interfaces)
 * [p5 Tweet Art Playground](https://emptyprotocol.github.io/p5-tweet-art/playground.html) - Interactive one-tweet p5.js generative art playground
 * [Underleaf](https://underleaf.xyz/) - Beautiful documents / LaTeX-oriented writing tool
+* [Taste Skill](https://www.tasteskill.dev/) - Anti-slop frontend skill framework for AI coding agents
 
 ***
 
