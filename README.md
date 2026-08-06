@@ -121,6 +121,7 @@
 * [Taste Skill](https://www.tasteskill.dev/) - Anti-slop frontend skill framework for AI coding agents
 * [Free Faces](https://www.freefaces.gallery/) - Curated collection of free-licensed typefaces
 * [Fontshare](https://www.fontshare.com/) - Quality free fonts from Indian Type Foundry
+* [OriginKit](https://www.originkit.dev/) - Free animated component library for modern websites
 
 ### GitHub Profile
 
