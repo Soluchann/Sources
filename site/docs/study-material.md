@@ -22,6 +22,9 @@
 * [GPU Glossary (Modal)](https://modal.com/gpu-glossary) - Glossary of GPU architecture and CUDA concepts
 * [tcgen05](https://github.com/sf-tensor/tcgen05) - Bit-level software model of Blackwell Tensor Core MMA arithmetic
 * [Mixture-of-Kittens (Cursor)](https://cursor.com/blog/mixture-of-kittens) - Open-source MoE training megakernel for NVL72s
+* [Inside vLLM (Aleksa Gordić)](https://www.aleksagordic.com/blog/vllm#cpt1) - Anatomy of a high-throughput LLM inference system
+* [Inference Engineering](https://inferenceengineering.tech/) - Interactive guide to AI inference (GPU, vLLM, KV cache, and more)
+* [Language Modeling from Scratch (TensorTonic)](https://www.tensortonic.com/study-plans/language-modeling-from-scratch) - Study plan for implementing language models from scratch
 
 ***
 
