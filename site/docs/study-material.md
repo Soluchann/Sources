@@ -28,6 +28,7 @@
 * [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization) - Illustrated guide to LLM quantization techniques
 * [SASS King (Florian Mattana)](https://florianmattana.com/posts/sass_king/) - Reading NVIDIA SASS from first principles across architectures
 * [SIGReg from First Principles](https://rezabyt.github.io/blogposts/sigreg-tutorial.html) - Step-by-step tutorial on SIGReg anti-collapse regularizer for JEPAs
+* [Pattern Recognition and Machine Learning (Bishop)](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) - Classic ML textbook PDF (Christopher M. Bishop)
 
 ***
 
