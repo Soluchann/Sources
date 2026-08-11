@@ -124,6 +124,7 @@
 * [Free Faces](https://www.freefaces.gallery/) - Curated collection of free-licensed typefaces
 * [Fontshare](https://www.fontshare.com/) - Quality free fonts from Indian Type Foundry
 * [OriginKit](https://www.originkit.dev/) - Free animated component library for modern websites
+* [Beautiful UI](https://beautiful-ui-five.vercel.app/) - Crafted copy-paste primitives for AI-native interfaces
 
 ### GitHub Profile
 
@@ -150,6 +151,7 @@
 * [PixelRAG](https://github.com/StarTrail-org/PixelRAG) - Pixel-native search / RAG (skip traditional web parsing)
 * [Qwen-CUA](https://github.com/xlang-ai/Qwen-CUA) - Screenshot-driven computer-use agent (keyboard + mouse)
 * [Diffusion Studio Editor](https://github.com/diffusionstudio/editor) - Open-source video editor built for coding agents
+* [jcode](https://jcode.sh/) - Open-source AI coding agent for the terminal
 
 ***
 ***
