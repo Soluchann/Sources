@@ -22,7 +22,7 @@ export const meta = {
   name: 'Sources',
   description:
     'Personal FMHY-based Sources index — not the official fmhy.net site.',
-  hostname: 'https://sources.vercel.app',
+  hostname: 'https://sources-phi.vercel.app',
   keywords: ['sources', 'ui tools', 'ai tools', 'study material', 'fmhy'],
   build: {
     api: false,

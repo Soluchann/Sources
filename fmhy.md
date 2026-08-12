@@ -60,6 +60,8 @@
 
 **Torrent Clients, Torrent Sites, Trackers**
 
+* [Prowlarr](https://prowlarr.com/#downloads-v3-other) - Indexer manager for *arr apps (Sonarr, Radarr, etc.)
+
 ***
 ***
 
@@ -118,6 +120,11 @@
 * [Bakai Lab](https://www.bakai.me/lab) - Interactive UI lab (sidebars, product interfaces)
 * [p5 Tweet Art Playground](https://emptyprotocol.github.io/p5-tweet-art/playground.html) - Interactive one-tweet p5.js generative art playground
 * [Underleaf](https://underleaf.xyz/) - Beautiful documents / LaTeX-oriented writing tool
+* [Taste Skill](https://www.tasteskill.dev/) - Anti-slop frontend skill framework for AI coding agents
+* [Free Faces](https://www.freefaces.gallery/) - Curated collection of free-licensed typefaces
+* [Fontshare](https://www.fontshare.com/) - Quality free fonts from Indian Type Foundry
+* [OriginKit](https://www.originkit.dev/) - Free animated component library for modern websites
+* [Beautiful UI](https://beautiful-ui-five.vercel.app/) - Crafted copy-paste primitives for AI-native interfaces
 
 ### GitHub Profile
 
@@ -143,6 +150,8 @@
 * [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - Team-level memory hub for AI agents (chat, skills, wiki, code-graph)
 * [PixelRAG](https://github.com/StarTrail-org/PixelRAG) - Pixel-native search / RAG (skip traditional web parsing)
 * [Qwen-CUA](https://github.com/xlang-ai/Qwen-CUA) - Screenshot-driven computer-use agent (keyboard + mouse)
+* [Diffusion Studio Editor](https://github.com/diffusionstudio/editor) - Open-source video editor built for coding agents
+* [jcode](https://jcode.sh/) - Open-source AI coding agent for the terminal
 
 ***
 ***
@@ -165,6 +174,15 @@
 * [AI Engineering Book (Chip Huyen)](https://github.com/chiphuyen/aie-book) - Resources and supporting materials for AI Engineering
 * [Seeing Theory](https://seeing-theory.brown.edu/#firstPage) - Visual introduction to probability and statistics
 * [GPU Glossary (Modal)](https://modal.com/gpu-glossary) - Glossary of GPU architecture and CUDA concepts
+* [tcgen05](https://github.com/sf-tensor/tcgen05) - Bit-level software model of Blackwell Tensor Core MMA arithmetic
+* [Mixture-of-Kittens (Cursor)](https://cursor.com/blog/mixture-of-kittens) - Open-source MoE training megakernel for NVL72s
+* [Inside vLLM (Aleksa Gordić)](https://www.aleksagordic.com/blog/vllm#cpt1) - Anatomy of a high-throughput LLM inference system
+* [Inference Engineering](https://inferenceengineering.tech/) - Interactive guide to AI inference (GPU, vLLM, KV cache, and more)
+* [Language Modeling from Scratch (TensorTonic)](https://www.tensortonic.com/study-plans/language-modeling-from-scratch) - Study plan for implementing language models from scratch
+* [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization) - Illustrated guide to LLM quantization techniques
+* [SASS King (Florian Mattana)](https://florianmattana.com/posts/sass_king/) - Reading NVIDIA SASS from first principles across architectures
+* [SIGReg from First Principles](https://rezabyt.github.io/blogposts/sigreg-tutorial.html) - Step-by-step tutorial on SIGReg anti-collapse regularizer for JEPAs
+* [Pattern Recognition and Machine Learning (Bishop)](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) - Classic ML textbook PDF (Christopher M. Bishop)
 
 ### LLM Cache Management
 

@@ -20,6 +20,15 @@
 * [AI Engineering Book (Chip Huyen)](https://github.com/chiphuyen/aie-book) - Resources and supporting materials for AI Engineering
 * [Seeing Theory](https://seeing-theory.brown.edu/#firstPage) - Visual introduction to probability and statistics
 * [GPU Glossary (Modal)](https://modal.com/gpu-glossary) - Glossary of GPU architecture and CUDA concepts
+* [tcgen05](https://github.com/sf-tensor/tcgen05) - Bit-level software model of Blackwell Tensor Core MMA arithmetic
+* [Mixture-of-Kittens (Cursor)](https://cursor.com/blog/mixture-of-kittens) - Open-source MoE training megakernel for NVL72s
+* [Inside vLLM (Aleksa Gordić)](https://www.aleksagordic.com/blog/vllm#cpt1) - Anatomy of a high-throughput LLM inference system
+* [Inference Engineering](https://inferenceengineering.tech/) - Interactive guide to AI inference (GPU, vLLM, KV cache, and more)
+* [Language Modeling from Scratch (TensorTonic)](https://www.tensortonic.com/study-plans/language-modeling-from-scratch) - Study plan for implementing language models from scratch
+* [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization) - Illustrated guide to LLM quantization techniques
+* [SASS King (Florian Mattana)](https://florianmattana.com/posts/sass_king/) - Reading NVIDIA SASS from first principles across architectures
+* [SIGReg from First Principles](https://rezabyt.github.io/blogposts/sigreg-tutorial.html) - Step-by-step tutorial on SIGReg anti-collapse regularizer for JEPAs
+* [Pattern Recognition and Machine Learning (Bishop)](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) - Classic ML textbook PDF (Christopher M. Bishop)
 
 ***
 

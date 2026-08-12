@@ -26,8 +26,11 @@ The site lockfile is **pnpm 10**. Vercel’s default pnpm is often older, so it 
 
 ## After deploy
 
-- Update `docs/.vitepress/shared.ts` → `meta.hostname` to your real Vercel URL (e.g. `https://sources-xxx.vercel.app` or a custom domain).
-- Every push to the connected branch redeploys automatically.
+- Production URL for this project: **https://sources-phi.vercel.app**
+  - That domain stays the same on every push to `main`.
+  - PR / branch commits get temporary **preview** URLs (unique each time) — use production for day-to-day browsing.
+- `docs/.vitepress/shared.ts` → `meta.hostname` should match production (`https://sources-phi.vercel.app`).
+- Every push to `main` redeploys production automatically.
 
 ## Local preview
 
