@@ -8,7 +8,7 @@ import { colors } from '../utils/colors'
 import Switch from './Switch.vue'
 
 type ColorNames = keyof typeof colors
-const selectedColor = useStorage<ColorNames>('preferred-color', 'swarm')
+const selectedColor = useStorage<ColorNames | ''>('preferred-color', '')
 
 // Use the theme system
 const { amoledEnabled, setAmoledEnabled, setTheme, state, mode, themeName } =
@@ -209,14 +209,14 @@ const normalizeColorName = (colorName: string) =>
   colorName.slice(1).replaceAll(/-/g, ' ')
 
 onMounted(async () => {
-  // apply saved theme on load
+  // Only re-apply a color theme if the user explicitly picked one.
+  // Default site theme is monochrome (handled by themeHandler).
   if (selectedColor.value) {
     const theme = generateThemeFromColor(selectedColor.value)
     themeRegistry[`color-${selectedColor.value}`] = theme
     await nextTick()
     setTheme(`color-${selectedColor.value}`)
   }
-  // Wait for next tick to ensure theme handler is fully initialized
   await nextTick()
 })
 

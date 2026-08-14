@@ -40,7 +40,7 @@ export default defineConfig({
     hostname: meta.hostname
   },
   head: [
-    ['meta', { name: 'theme-color', content: '#7bc5e4' }],
+    ['meta', { name: 'theme-color', content: '#111111' }],
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:locale', content: 'en' }],
     ['link', { rel: 'icon', href: '/fmhy.ico' }],
@@ -105,7 +105,7 @@ export default defineConfig({
             var d = document.documentElement;
             var mode = localStorage.getItem('vitepress-display-mode');
             var amoled = localStorage.getItem('vitepress-amoled-enabled') === 'true';
-            var themeName = localStorage.getItem('vitepress-theme-name');
+            var themeName = localStorage.getItem('vitepress-theme-name') || 'monochrome';
             var varsJson = localStorage.getItem('vitepress-theme-vars');
 
             if (!mode) {

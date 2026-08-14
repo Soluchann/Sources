@@ -4,94 +4,113 @@ html {
 
 :root {
   scroll-behavior: smooth;
-  /* Colors: Brand */
-  --vp-c-brand-1: theme('colors.swarm.500');
-  --vp-c-brand-2: theme('colors.swarm.600');
-  --vp-c-brand-3: theme('colors.swarm.800');
-  --vp-c-brand-soft: theme('colors.swarm.400');
+  /* Colors: Brand (monochrome default) */
+  --vp-c-brand-1: #000000;
+  --vp-c-brand-2: #1a1a1a;
+  --vp-c-brand-3: #333333;
+  --vp-c-brand-soft: #666666;
 
   /* Colors: Button */
-  --vp-button-brand-bg: var(--vp-c-brand-1);
-  --vp-button-brand-border: var(--vp-c-brand-soft);
-  --vp-button-brand-text: rgba(42, 40, 47);
-  --vp-button-brand-hover-border: var(--vp-c-brand-soft);
-  --vp-button-brand-hover-text: rgba(42, 40, 47);
-  --vp-button-brand-hover-bg: var(--vp-c-brand-soft);
-  --vp-button-brand-active-border: var(--vp-c-brand-soft);
-  --vp-button-brand-active-text: rgba(42, 40, 47);
-  --vp-button-brand-active-bg: var(--vp-button-brand-bg);
-  --vp-button-alt-bg: #484848;
-  --vp-button-alt-text: #f0eeee;
-  --vp-button-alt-hover-bg: #484848;
-  --vp-button-alt-hover-text: #f0eeee;
+  --vp-button-brand-bg: #000000;
+  --vp-button-brand-border: #000000;
+  --vp-button-brand-text: #ffffff;
+  --vp-button-brand-hover-border: #333333;
+  --vp-button-brand-hover-text: #ffffff;
+  --vp-button-brand-hover-bg: #333333;
+  --vp-button-brand-active-border: #000000;
+  --vp-button-brand-active-text: #ffffff;
+  --vp-button-brand-active-bg: #000000;
+  --vp-button-alt-bg: #808080;
+  --vp-button-alt-text: #ffffff;
+  --vp-button-alt-hover-bg: #666666;
+  --vp-button-alt-hover-text: #ffffff;
 
-  --vp-c-bg-elv: rgba(255, 255, 255, 0.7);
-  --vp-c-bg-mark: rgb(232, 232, 232);
+  --vp-c-bg-elv: rgba(255, 255, 255, 0.95);
+  --vp-c-bg-mark: #e0e0e0;
 
   /* Colors: Custom Block */
   /** Info */
-  --vp-custom-block-info-bg: theme('colors.swarm.100');
-  --vp-custom-block-info-border: theme('colors.swarm.800');
-  --vp-custom-block-info-text: theme('colors.swarm.800');
-  --vp-custom-block-info-text-deep: theme('colors.swarm.900');
+  --vp-custom-block-info-bg: #f5f5f5;
+  --vp-custom-block-info-border: #000000;
+  --vp-custom-block-info-text: #000000;
+  --vp-custom-block-info-text-deep: #000000;
   /** Tip */
-  --vp-custom-block-tip-bg: theme('colors.meadow.100');
-  --vp-custom-block-tip-border: theme('colors.meadow.800');
-  --vp-custom-block-tip-text: theme('colors.meadow.800');
-  --vp-custom-block-tip-text-deep: theme('colors.meadow.900');
+  --vp-custom-block-tip-bg: #f5f5f5;
+  --vp-custom-block-tip-border: #333333;
+  --vp-custom-block-tip-text: #1a1a1a;
+  --vp-custom-block-tip-text-deep: #000000;
   /** Warning */
-  --vp-custom-block-warning-bg: theme('colors.merlin.100');
-  --vp-custom-block-warning-border: theme('colors.merlin.800');
-  --vp-custom-block-warning-text: theme('colors.merlin.800');
-  --vp-custom-block-warning-text-deep: theme('colors.merlin.900');
+  --vp-custom-block-warning-bg: #f5f5f5;
+  --vp-custom-block-warning-border: #666666;
+  --vp-custom-block-warning-text: #333333;
+  --vp-custom-block-warning-text-deep: #1a1a1a;
   /** Danger */
-  --vp-custom-block-danger-bg: theme('colors.carnation.100');
-  --vp-custom-block-danger-border: theme('colors.carnation.800');
-  --vp-custom-block-danger-text: theme('colors.carnation.800');
-  --vp-custom-block-danger-text-deep: theme('colors.carnation.900');
+  --vp-custom-block-danger-bg: #f5f5f5;
+  --vp-custom-block-danger-border: #000000;
+  --vp-custom-block-danger-text: #000000;
+  --vp-custom-block-danger-text-deep: #000000;
   /* Currently focused search highlight */
   --vp-focus-highlight-bg: color-mix(in srgb, var(--vp-c-brand-soft) 87%, black);
   /* Scroll-to-match highlight */
-  --vp-scroll-match-bg: color-mix(in srgb, var(--vp-c-brand-soft) 46%, transparent)
+  --vp-scroll-match-bg: color-mix(in srgb, var(--vp-c-brand-soft) 46%, transparent);
+  /* Selection */
+  --vp-c-selection-bg: #cccccc;
 }
 
 .dark {
   /* Colors: Brand */
-  --vp-c-brand-1: theme('colors.swarm.400');
-  --vp-c-brand-2: theme('colors.swarm.500');
-  --vp-c-brand-3: theme('colors.swarm.700');
-  --vp-c-brand-soft: theme('colors.swarm.300');
+  --vp-c-brand-1: #ffffff;
+  --vp-c-brand-2: #e0e0e0;
+  --vp-c-brand-3: #cccccc;
+  --vp-c-brand-soft: #999999;
 
   /* Colors: Background */
   --vp-c-bg: rgb(26, 26, 26);
   --vp-c-bg-alt: rgb(23, 23, 23);
-  --vp-c-bg-elv: rgba(23, 23, 23, 0.8);
+  --vp-c-bg-elv: rgba(26, 26, 26, 0.95);
+
+  /* Colors: Button */
+  --vp-button-brand-bg: #ffffff;
+  --vp-button-brand-border: #ffffff;
+  --vp-button-brand-text: #000000;
+  --vp-button-brand-hover-border: #cccccc;
+  --vp-button-brand-hover-text: #000000;
+  --vp-button-brand-hover-bg: #cccccc;
+  --vp-button-brand-active-border: #ffffff;
+  --vp-button-brand-active-text: #000000;
+  --vp-button-brand-active-bg: #ffffff;
+  --vp-button-alt-bg: #808080;
+  --vp-button-alt-text: #000000;
+  --vp-button-alt-hover-bg: #999999;
+  --vp-button-alt-hover-text: #000000;
 
   /* Colors: Custom Block */
   /** Info */
-  --vp-custom-block-info-bg: theme('colors.swarm.950');
-  --vp-custom-block-info-border: theme('colors.swarm.800');
-  --vp-custom-block-info-text: theme('colors.swarm.200');
-  --vp-custom-block-info-text-deep: theme('colors.swarm.200');
+  --vp-custom-block-info-bg: #1a1a1a;
+  --vp-custom-block-info-border: #ffffff;
+  --vp-custom-block-info-text: #ffffff;
+  --vp-custom-block-info-text-deep: #ffffff;
   /** Tip */
-  --vp-custom-block-tip-bg: theme('colors.meadow.950');
-  --vp-custom-block-tip-border: theme('colors.meadow.800');
-  --vp-custom-block-tip-text: theme('colors.meadow.200');
-  --vp-custom-block-tip-text-deep: theme('colors.meadow.200');
+  --vp-custom-block-tip-bg: #1a1a1a;
+  --vp-custom-block-tip-border: #cccccc;
+  --vp-custom-block-tip-text: #e0e0e0;
+  --vp-custom-block-tip-text-deep: #ffffff;
   /** Warning */
-  --vp-custom-block-warning-bg: theme('colors.merlin.950');
-  --vp-custom-block-warning-border: theme('colors.merlin.800');
-  --vp-custom-block-warning-text: theme('colors.merlin.200');
-  --vp-custom-block-warning-text-deep: theme('colors.merlin.200');
+  --vp-custom-block-warning-bg: #1a1a1a;
+  --vp-custom-block-warning-border: #999999;
+  --vp-custom-block-warning-text: #cccccc;
+  --vp-custom-block-warning-text-deep: #e0e0e0;
   /** Danger */
-  --vp-custom-block-danger-bg: theme('colors.carnation.950');
-  --vp-custom-block-danger-border: theme('colors.carnation.800');
-  --vp-custom-block-danger-text: theme('colors.carnation.200');
-  --vp-custom-block-danger-text-deep: theme('colors.carnation.200');
+  --vp-custom-block-danger-bg: #1a1a1a;
+  --vp-custom-block-danger-border: #ffffff;
+  --vp-custom-block-danger-text: #ffffff;
+  --vp-custom-block-danger-text-deep: #ffffff;
   /* Currently focused search highlight */
   --vp-focus-highlight-bg: color-mix(in srgb, var(--vp-c-brand-soft) 87%, white);
   /* Scroll-to-match highlight */
   --vp-scroll-match-bg: color-mix(in srgb, var(--vp-c-brand-soft) 38%, black);
+  /* Selection */
+  --vp-c-selection-bg: #333333;
 }
 
 .monochrome {
@@ -143,11 +162,7 @@ html {
 }
 
 ::selection {
-  background-color: #5586a6;
-
-  .dark & {
-    background-color: #0f2c47;
-  }
+  background-color: var(--vp-c-selection-bg, #cccccc);
 }
 
 .VPFooter a {
@@ -176,17 +191,13 @@ html {
  * Component: Home
 */
 :root {
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(
-    120deg,
-    #c4b5fd 30%,
-    #7bc5e4
-  );
+  --vp-home-hero-name-color: #000000;
+  --vp-home-hero-name-background: #ffffff;
 
   --vp-home-hero-image-background-image: linear-gradient(
-    -45deg,
-    #c4b5fd 50%,
-    #47caff 50%
+    135deg,
+    #e0e0e0 0%,
+    #ffffff 100%
   );
   --vp-home-hero-image-filter: blur(44px);
 }
@@ -206,13 +217,21 @@ html {
 html.june {
   --vp-home-hero-name-background: linear-gradient(
     120deg,
-    #ff6763,
-    #feb044,
-    #fcfd96,
-    #9ee09e,
-    #9ec1ce,
-    #cc99c8
+    #000000,
+    #666666,
+    #cccccc,
+    #ffffff
   ) !important;
+}
+
+.dark {
+  --vp-home-hero-name-color: #ffffff;
+  --vp-home-hero-name-background: #000000;
+  --vp-home-hero-image-background-image: linear-gradient(
+    135deg,
+    #1a1a1a 0%,
+    #000000 100%
+  );
 }
 
 .base64 {

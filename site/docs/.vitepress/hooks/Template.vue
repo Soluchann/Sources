@@ -21,7 +21,7 @@ defineProps<{ title: string; description?: string; image?: string }>()
       </span>
       <span tw="w-full pr-56 flex flex-col items-start justify-end">
         <span style="color: #f3f4f6" tw="text-6xl font-bold" v-html="title" />
-        <span style="color: #c0caf5" tw="mt-2 text-4xl" v-html="description" />
+        <span style="color: #a3a3a3" tw="mt-2 text-4xl" v-html="description" />
       </span>
     </span>
   </span>

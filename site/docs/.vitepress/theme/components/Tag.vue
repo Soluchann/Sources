@@ -20,8 +20,8 @@ function getHashColorFromString(name: string, opacity: number | string = 1) {
 }
 
 function getHsla(hue: number, opacity: number | string = 1) {
-  const saturation = isDark.value ? 50 : 65
-  const lightness = isDark.value ? 60 : 40
+  const saturation = 0
+  const lightness = isDark.value ? 70 : 35
   return `hsla(${hue}, ${saturation}%, ${lightness}%, ${opacity})`
 }
 

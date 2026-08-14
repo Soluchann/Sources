@@ -372,7 +372,7 @@ const resetFeedback = () => {
           </div>
           <div
             v-if="error"
-            class="error-msg mb-4 p-3 rounded-lg bg-red-900/20 border border-red-500/50 text-red-300 text-xs"
+            class="error-msg mb-4 p-3 rounded-lg bg-neutral-900/20 border border-neutral-500/50 text-neutral-300 text-xs"
           >
             <span class="font-bold">Error:</span>
             {{
@@ -396,7 +396,7 @@ const resetFeedback = () => {
               "
             ></div>
             <button
-              class="opacity-0 group-hover:opacity-100 transition-opacity p-1 hover:bg-$vp-c-default-soft rounded text-$vp-c-text-3 hover:text-red-400"
+              class="opacity-0 group-hover:opacity-100 transition-opacity p-1 hover:bg-$vp-c-default-soft rounded text-$vp-c-text-3 hover:text-neutral-200"
               title="Remove selected line"
               @click="clearSelectedLine"
             >
