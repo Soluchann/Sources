@@ -147,6 +147,10 @@ export const headers: Header = {
   'study-material.md': {
     title: 'Study material',
     description: 'Articles, threads, and deep dives worth reading'
+  },
+  'shopping-gear.md': {
+    title: 'Shopping / Gear',
+    description: 'India peripherals stores, audiophile shops, and price trackers'
   }
 } as const
 

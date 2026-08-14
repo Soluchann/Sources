@@ -199,6 +199,22 @@
 ***
 ***
 
+# 🛒 Shopping / Gear
+
+**India peripherals stores, audiophile shops, and price trackers**
+
+* [GenesisPC](https://www.genesispc.in/) - Gaming / esports peripherals (pads, keyboards, skates, keycaps)
+* [Loadout](https://www.loadout.co.in/) - Gaming mice, mechanical keyboards, and accessories (India)
+* [URX](https://urx.co.in/) - Gaming peripherals store (India)
+* [RyuGear](https://ryugear.in/) - Gaming / PC peripherals store (India)
+* [Neo Macro](https://neomacro.in/) - Enthusiast mechanical keyboards, mice, switches, and keycaps
+* [Headphone Zone](https://www.headphonezone.in/) - Audiophile IEMs, headphones, DACs, and amps (India)
+* [Concept Kart](https://conceptkart.com/) - IEMs, headphones, DACs/amps, keyboards, and gadgets
+* [Keepa](https://keepa.com/) - Amazon price history charts, drop alerts, and watches
+
+***
+***
+
 # [📑 Changelog](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/1pl8vl0/fmhy_changelog/)
 
 **Recent Additions and Updates**
