@@ -234,6 +234,16 @@ html.june {
   );
 }
 
+/* Keep the home hero mark greyscale even if the source asset has color */
+.VPHomeHero .image-src img,
+.VPHomeHero .VPImage {
+  filter: grayscale(1) contrast(1.05);
+}
+
+.VPHomeHero .image-bg {
+  filter: blur(var(--vp-home-hero-image-filter, 44px)) grayscale(1) !important;
+}
+
 .base64 {
   min-width: 100%;
   width: 0px;
