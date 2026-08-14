@@ -228,6 +228,10 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
       {
         text: '<span class="i-twemoji:open-book"></span> Study material',
         link: '/study-material'
+      },
+      {
+        text: '<span class="i-twemoji:shopping-cart"></span> Shopping / Gear',
+        link: '/shopping-gear'
       }
     ]
   },

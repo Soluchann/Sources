@@ -7,7 +7,7 @@
 Personal **Sources** index: FMHY-style markdown wiki plus a VitePress site under `site/` (rebranded copy of `fmhy/edit`, not official fmhy.net).
 
 - Root index: `README.md` and `fmhy.md` (keep them in sync)
-- Site pages: `site/docs/` (curated pages include `ui-tools.md`, `ai-tools.md`, `study-material.md`)
+- Site pages: `site/docs/` (curated pages include `ui-tools.md`, `ai-tools.md`, `study-material.md`, `shopping-gear.md`)
 - Deploy: Vercel via root `vercel.json`
 
 ### Dual-update rule

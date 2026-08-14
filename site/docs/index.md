@@ -5,7 +5,7 @@ description: Personal FMHY-based Sources index — not the official fmhy.net sit
 
 hero:
   name: Sources
-  tagline: FMHY wiki + curated UI tools, AI tools, and study material
+  tagline: FMHY wiki + curated UI tools, AI tools, study material, and shopping / gear
   announcement:
     title: Unofficial Sources site (not fmhy.net)
     link: https://github.com/Soluchann/Sources
@@ -25,6 +25,9 @@ hero:
     - theme: alt
       text: Study material
       link: /study-material
+    - theme: alt
+      text: Shopping / Gear
+      link: /shopping-gear
 
 features:
   - title: UI tools
@@ -44,6 +47,12 @@ features:
     details: Articles, threads, and deep dives worth reading.
     icon: |
       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#A8D8B9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-graduation-cap"><path d="M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"/><path d="M22 10v6"/><path d="M6 12.5V16a6 3 0 0 0 12 0v-3.5"/><title>Study material</title></svg>
+
+  - title: Shopping / Gear
+    link: /shopping-gear
+    details: India peripherals stores, audiophile shops, and price trackers.
+    icon: |
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#E6A23C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-shopping-cart"><circle cx="8" cy="21" r="1"/><circle cx="19" cy="21" r="1"/><path d="M2.05 2.05h2l2.66 12.42a2 2 0 0 0 2 1.58h9.78a2 2 0 0 0 1.95-1.57l1.65-7.43H5.12"/><title>Shopping / Gear</title></svg>
 
   - title: Adblocking / Privacy
     link: /privacy
