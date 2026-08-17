@@ -31,6 +31,7 @@
 * [Pattern Recognition and Machine Learning (Bishop)](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) - Classic ML textbook PDF (Christopher M. Bishop)
 * [H100 / GPU Glossary](https://gpu.kylejeong.com/) - Interactive 3D guide to NVIDIA H100 GPU architecture
 * [Time to First Token](https://github.com/patchy631/time-to-first-token) - 10-week roadmap for LLM inference serving and optimization
+* [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/) - Algorithmica book on HPC, performance, and modern CPU/GPU algorithms
 
 ***
 
