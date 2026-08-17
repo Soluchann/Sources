@@ -20,6 +20,22 @@
 * [Fontshare](https://www.fontshare.com/) - Quality free fonts from Indian Type Foundry
 * [OriginKit](https://www.originkit.dev/) - Free animated component library for modern websites
 * [Beautiful UI](https://beautiful-ui-five.vercel.app/) - Crafted copy-paste primitives for AI-native interfaces
+* [beUI Pro](https://pro.beui.dev/) - Animated React backgrounds, motion components, and UI blocks
+* [bloub](https://bloub.vercel.app/) - Animated SVG avatar generator
+
+***
+
+# ► Backgrounds / Gradients
+
+* [Backgrounds Supply](https://backgrounds.supply/) - 1,000+ ready-to-use gradient and AI backgrounds
+* [Pryzm](https://pryzm.design/) - Create gradients, glass, and grain backgrounds in the browser
+* [ColorFlow](https://colorflow.ls.graphics/) - Advanced mesh gradient generator and editor
+* [Grainient](https://grainient.supply/) - Grainy, smooth, and animated gradients
+* [CSS Gradient](https://cssgradient.io/) - Simple CSS gradient generator
+* [Gradientool](https://gradientool.com/) - Customizable 3D and animated gradient maker
+* [Ramps](https://ramps.studio/) - Build color ramps and accessible palettes
+* [zoxilsi studio](https://studio.zoxilsi.cc/) - Mesh gradient studio with presets and export
+* [Tabbied](https://tabbied.com/) - Free customizable pattern generator
 
 ***
 
