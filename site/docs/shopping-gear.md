@@ -24,3 +24,12 @@
 # ► Price Tracking
 
 * [Keepa](https://keepa.com/) - Amazon price history charts, drop alerts, and watches
+
+***
+
+# ► Fragrance (India)
+
+* [Fragaholic](https://fragaholic.in) - Fragrance store (India)
+* [Sovereign Scents](https://sovereignscents.in) - Authentic luxury perfumes, decants, and testers
+* [Wellscented](https://wellscented.in) - Curated luxury and niche fragrances
+* [Whiff Culture](https://www.whiffculture.com) - Fragrance / perfume store
