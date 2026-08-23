@@ -150,7 +150,7 @@ export const headers: Header = {
   },
   'shopping-gear.md': {
     title: 'Shopping / Gear',
-    description: 'India peripherals stores, audiophile shops, and price trackers'
+    description: 'India peripherals stores, audiophile shops, fragrance stores, and price trackers'
   }
 } as const
 
