@@ -76,6 +76,8 @@
 
 **Internet Tools, System Tools, Audio Tools, Video Tools**
 
+* [mise](https://mise.jdx.dev/) - Polyglot runtime / tool version manager (dev environments)
+
 ***
 ***
 
@@ -166,6 +168,8 @@
 * [Qwen-CUA](https://github.com/xlang-ai/Qwen-CUA) - Screenshot-driven computer-use agent (keyboard + mouse)
 * [Diffusion Studio Editor](https://github.com/diffusionstudio/editor) - Open-source video editor built for coding agents
 * [jcode](https://jcode.sh/) - Open-source AI coding agent for the terminal
+* [Monid + TinyFish](https://monid.ai/blog/tinyfish) - Free web search and page fetch for AI agents
+* [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Free MIT AI gateway (multi-provider, auto-fallback) for coding agents
 
 ***
 ***
@@ -200,6 +204,8 @@
 * [H100 / GPU Glossary](https://gpu.kylejeong.com/) - Interactive 3D guide to NVIDIA H100 GPU architecture
 * [Time to First Token](https://github.com/patchy631/time-to-first-token) - 10-week roadmap for LLM inference serving and optimization
 * [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/) - Algorithmica book on HPC, performance, and modern CPU/GPU algorithms
+* [GPU Perf Engineering Resources (Wafer AI)](https://github.com/wafer-ai/gpu-perf-engineering-resources) - Curated list from GPU fundamentals to production inference
+* [Backend from First Principles](https://backend-from-first-principle.vercel.app/) - 24-chapter backend series from HTTP fundamentals to WebSockets
 
 ### LLM Cache Management
 
@@ -208,6 +214,7 @@
 * [Automatic Prefix Caching (vLLM)](https://docs.vllm.ai/en/latest/features/automatic_prefix_caching/) - Reuse KV cache across shared prompt prefixes
 * [Continuous Batching (Anyscale)](https://www.anyscale.com/blog/continuous-batching-llm-inference) - Iteration-level batching for higher throughput
 * [Looking Back at Speculative Decoding](https://research.google/blog/looking-back-at-speculative-decoding/) - Google Research on speculative decoding
+* [How Speculative Decoding Makes LLMs Go Brrr](https://leoniemonigatti.com/blog/speculative-decoding.html) - Draft-and-verify, Medusa, EAGLE, DFlash, and DSpark
 * [KV Cache Quantization (Hugging Face)](https://huggingface.co/blog/kv-cache-quantization) - Compress KV cache for longer generations
 * [FlashInfer](https://arxiv.org/abs/2501.01005) - Attention engine paper
 * [Zipage](https://arxiv.org/abs/2603.08743) - Compressed PagedAttention paper
