@@ -33,6 +33,7 @@
 * [Time to First Token](https://github.com/patchy631/time-to-first-token) - 10-week roadmap for LLM inference serving and optimization
 * [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/) - Algorithmica book on HPC, performance, and modern CPU/GPU algorithms
 * [GPU Perf Engineering Resources (Wafer AI)](https://github.com/wafer-ai/gpu-perf-engineering-resources) - Curated list from GPU fundamentals to production inference
+* [Backend from First Principles](https://backend-from-first-principle.vercel.app/) - 24-chapter backend series from HTTP fundamentals to WebSockets
 
 ***
 

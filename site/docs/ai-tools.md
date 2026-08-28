@@ -14,3 +14,4 @@
 * [Qwen-CUA](https://github.com/xlang-ai/Qwen-CUA) - Screenshot-driven computer-use agent (keyboard + mouse)
 * [Diffusion Studio Editor](https://github.com/diffusionstudio/editor) - Open-source video editor built for coding agents
 * [jcode](https://jcode.sh/) - Open-source AI coding agent for the terminal
+* [Monid + TinyFish](https://monid.ai/blog/tinyfish) - Free web search and page fetch for AI agents

@@ -166,6 +166,7 @@
 * [Qwen-CUA](https://github.com/xlang-ai/Qwen-CUA) - Screenshot-driven computer-use agent (keyboard + mouse)
 * [Diffusion Studio Editor](https://github.com/diffusionstudio/editor) - Open-source video editor built for coding agents
 * [jcode](https://jcode.sh/) - Open-source AI coding agent for the terminal
+* [Monid + TinyFish](https://monid.ai/blog/tinyfish) - Free web search and page fetch for AI agents
 
 ***
 ***
@@ -201,6 +202,7 @@
 * [Time to First Token](https://github.com/patchy631/time-to-first-token) - 10-week roadmap for LLM inference serving and optimization
 * [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/) - Algorithmica book on HPC, performance, and modern CPU/GPU algorithms
 * [GPU Perf Engineering Resources (Wafer AI)](https://github.com/wafer-ai/gpu-perf-engineering-resources) - Curated list from GPU fundamentals to production inference
+* [Backend from First Principles](https://backend-from-first-principle.vercel.app/) - 24-chapter backend series from HTTP fundamentals to WebSockets
 
 ### LLM Cache Management
 
