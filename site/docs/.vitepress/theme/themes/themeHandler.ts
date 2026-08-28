@@ -49,7 +49,7 @@ export class ThemeHandler {
     if (typeof window === 'undefined') return
 
     // Load saved preferences
-    const savedTheme = localStorage.getItem(STORAGE_KEY_THEME) || 'color-swarm'
+    const savedTheme = localStorage.getItem(STORAGE_KEY_THEME) || 'monochrome'
     const savedMode = localStorage.getItem(
       STORAGE_KEY_MODE
     ) as DisplayMode | null
