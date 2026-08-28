@@ -15,3 +15,4 @@
 * [Diffusion Studio Editor](https://github.com/diffusionstudio/editor) - Open-source video editor built for coding agents
 * [jcode](https://jcode.sh/) - Open-source AI coding agent for the terminal
 * [Monid + TinyFish](https://monid.ai/blog/tinyfish) - Free web search and page fetch for AI agents
+* [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Free MIT AI gateway (multi-provider, auto-fallback) for coding agents
