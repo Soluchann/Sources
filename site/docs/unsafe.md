@@ -82,7 +82,7 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 * McAfee - Preinstalled Bloatware
 * Avast - Known for [selling user data](https://wikipedia.org/wiki/Avast#Collection_and_sale_of_user_data)
 * AVG - Owned by Avast
-* Gen Digital / Norton - Owned by Avast
+* Gen Digital (formerly NortonLifeLock) - Parent company of Norton, Avast, and Avira
 * Avira - Owned by Gen Digital
 * Nekogram - Got caught [logging peoples phone numbers](https://thebadinteger.github.io/nekogram-phone-exfiltration/) / [2](https://x.com/sotanews/status/2039652946233688273) via a hidden backdoor to one of their own bots
 * Nightcord - Got caught [logging peoples discord tokens](https://i.ibb.co/gbG0SYhM/image.png) on previous versions
@@ -101,4 +101,6 @@ To easily see which sites are trusted, and which are unsafe, try the **[FMHY Saf
 
 ### [Fake Z-Lib Sites](https://www.reddit.com/r/zlibrary/wiki/index/scamsites/)
 
-### [Fake Windows Activators](https://pastebin.com/gCmWs2GR)
+### [Fake Annas Archive Sites](https://i.ibb.co/35S5c8Qd/image.png) / [2](https://i.imgur.com/Tn9sTzP.png)
+
+### [Fake Windows Activators](https://i.ibb.co/hxb4GjVr/image.png) / [2](https://i.imgur.com/765LuHM.png)
