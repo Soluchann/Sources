@@ -171,6 +171,7 @@
 * [Monid + TinyFish](https://monid.ai/blog/tinyfish) - Free web search and page fetch for AI agents
 * [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Free MIT AI gateway (multi-provider, auto-fallback) for coding agents
 * [Hyperloom](https://github.com/AMD-AGI/Hyperloom) - Agentic system that auto-optimizes LLM workloads on AMD GPUs
+* [Ponytail](https://github.com/dietrichgebert/ponytail) - Agent skill that pushes for the least code that still works
 
 ***
 ***
@@ -209,6 +210,7 @@
 * [Backend from First Principles](https://backend-from-first-principle.vercel.app/) - 24-chapter backend series from HTTP fundamentals to WebSockets
 * [TrenTorch](https://www.trentorch.com/) - Build an ML framework from NumPy (tensor to transformer)
 * [Original Transformer vs DeepSeek](https://transformer-architecture.petergostev.chatgpt.site/) - Interactive 3D comparison of the original Transformer and DeepSeek V4.1 Flash
+* [Inverse Kinematics and Foot Locking](https://theorangeduck.com/page/inverse-kinematics-foot-locking) - Orange Duck recipes for IK, foot locking, and fixing foot sliding
 
 ### LLM Cache Management
 
