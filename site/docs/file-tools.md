@@ -19,13 +19,13 @@
 
 ## ▷ Download Managers
 
-* **Note** - For more info on the benefits of Download Managers, see [The Piracy Glossary](https://rentry.org/the-piracy-glossary).
+* **Note** - For more info on the benefits of Download Managers, see [The Piracy Glossary](https://fluffle.cc/piracyglossary).
 
 ***
 
 * ⭐ **[AB Download Manager](https://abdownloadmanager.com/)** - Download Manager / Windows, macOS, Linux, Android / [Firefox](https://addons.mozilla.org/firefox/addon/ab-download-manager/) / [Chrome](https://chromewebstore.google.com/detail/ab-download-manager-brows/bbobopahenonfdgjgaleledndnnfhooj) / [Telegram](https://t.me/abdownloadmanager_discussion) / [GitHub](https://github.com/amir1376/ab-download-manager)
 * ⭐ **[JDownloader](https://jdownloader.org/)** - Download Manager / Windows, macOS, Linux
-* ⭐ **JDownloader Tools** - [Debloat Guide](https://clarasguide.valeena.workers.dev/Guides/jdownloader2/) / [Apps](https://my.jdownloader.org/apps/) / [Dark Theme](https://github.com/moktavizen/material-darker-jdownloader), [2](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2)
+* ⭐ **JDownloader Tools** - [Apps](https://my.jdownloader.org/apps/) / [Dark Theme](https://github.com/moktavizen/material-darker-jdownloader), [2](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2) / [Debloat Guide](https://clarasguide.valeena.workers.dev/Guides/jdownloader2/)
 * ⭐ **[IDM](https://rentry.co/FMHYB64#idm)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites), [3](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games) (search) - Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tonec-idm-integration-module/) / [Chrome](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek) / Windows
 * [Go Speed](https://gopeed.com/) - Download Manager / All Platforms / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories) / [GitHub](https://github.com/GopeedLab/gopeed)
 * [Motrix Next](https://motrix-next.pages.dev/) - Download Manager / [GitHub](https://github.com/AnInsomniacy/motrix-next)
@@ -66,23 +66,19 @@
 * ⭐ **[VERT](https://vert.sh/)** - Online for Videos / Offline for Other Formats / Web / [Discord](https://discord.gg/8XXZ7TFFrK) / [GitHub](https://github.com/VERT-sh/VERT)
 * ⭐ **[Convert to it!](https://p2r3.github.io/convert/)** - Offline / File Converter / Web / [GitHub](https://github.com/p2r3/convert)
 * ⭐ **[Aconvert](https://www.aconvert.com/)** - Online / Various Converters / 40MB / Web
-* [⁠Docling](https://docling-project.github.io/docling/) / [GitHub](https://github.com/docling-project/docling) or [Pandoc](https://pandoc.org/) - Document / PDF File Converters
+* [⁠Docling](https://docling-project.github.io/docling/) / [GitHub](https://github.com/docling-project/docling) or [Pandoc](https://pandoc.org/) / [GitHub](https://github.com/jgm/pandoc) - PDF / Documents CLI Converters
 * [ConvertCSV](https://www.convertcsv.com/) - Online CSV Data Conversion / Web
 * [Encoding Converter](https://encoding-converter.netlify.app/) - Online File Encoding Converter / Web
 * [Deark](https://entropymine.com/deark/) - Decode and Convert Files / Windows, macOS, Linux / [GitHub](https://github.com/jsummers/deark)
 * [text2img](https://master.ayra.ch/text2img/) - Local NFO Files to Image Converter / Web / [GitHub](https://github.com/AyrA/text2img)
-* [Shutter Encoder](https://www.shutterencoder.com/) - File Converter / Windows, macOS, Linux / [GitHub](https://github.com/paulpacifico/shutter-encoder)
 * [Xconvert](https://www.xconvert.com) - Online / File Converter / 400MB / Web
 * [FreeConvert](https://www.freeconvert.com/) - Online / Unlimited / Clear Cookies / Web
 * [Convertio](https://convertio.co/) - Online / File Converter / 100MB / Web
 * [AnyConvert](https://anyconv.com/) - Online / File Converter / 100MB / Web
 * [MiConv](https://miconv.com/) - Online / File Converter / 75MB / Web
 * [⁠Docpose](https://docpose.cloud/convert) - Online / File Converter / 25MB / Web
-
 * [videoutils](https://www.videoutils.com/) - Online / File Converter / 500MB / Web
 * [ConvertFiles](https://www.convertfiles.com/) - Online / File Converter / 250MB / Web
-
-
 * [⁠ConvertX](https://github.com/C4illin/ConvertX) or [Transmute](https://transmute.sh/) / [GitHub](https://github.com/transmute-app/transmute) - Self-Hosted File Converters
 
 ***
@@ -125,11 +121,12 @@
 * ⭐ **[Cryptomator](https://cryptomator.org/)** / [GitHub](https://github.com/cryptomator/cryptomator) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) / [GitHub](https://github.com/tahoe-lafs/tahoe-lafs) - Cloud File Encryption
 * ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)** - Disk Encryptor / Use w/ External Drives / [GitHub](https://github.com/veracrypt/VeraCrypt)
 * [age](https://github.com/FiloSottile/age) - File Encryptor
-* [REM](https://github.com/liriliri/rem) - File Encryptor / Rclone GUI
+* [REM](https://rem.liriliri.io/) - File Encryptor / Rclone GUI / [GitHub](https://github.com/liriliri/rem)
 * [Picocrypt-NG](https://github.com/Picocrypt-NG/Picocrypt-NG) - File Encryptor
 * [gocryptfs](https://github.com/bailey27/cppcryptfs) - File Encryptor
 * [Kryptor](https://www.kryptor.co.uk/) - File Encryptor
-* [⁠VERNAM](https://vernam.app/) - Browser File Encryptor / [GitHub](https://github.com/LifetimeLabsDev/VERNAM)
+* [⁠VERNAM](https://vernam.app/) - File Encryptor / Web / [GitHub](https://github.com/LifetimeLabsDev/VERNAM)
+* [⁠AES-256-GCM](https://d9.codeberg.page/aes-256-gcm-file-encryption.html) - AES-256-GCM File Encryptor / Web
 
 ***
 
@@ -237,18 +234,19 @@
 ## ▷ Online PDF Toolkits
 
 * ⭐ **[⁠ihatepdf](https://www.ihatepdf.cv/)** - Client-Side
-* ⭐ **[BentoPDF](https://bentopdf.com/)** - Client-Side or [File PDF](https://filepdf.net/) / [GitHub](https://github.com/alam00000/bentopdf)
+* ⭐ **[BentoPDF](https://bentopdf.com/)** or [File PDF](https://filepdf.net/) - Client-Side / [GitHub](https://github.com/alam00000/bentopdf)
 * [PDFCraft](https://pdfcraft.devtoolcafe.com/) - Client-Side / [GitHub](https://github.com/PDFCraftTool/pdfcraft)
 * [BreezePDF](https://breezepdf.com/) - Client-Side
 * [⁠itinypdf](https://itinypdf.com/) - Client-Side
+* [⁠PDFKing](https://pdfking.app/) - Client-Side / [Discord](https://discord.gg/TdQeMGz3A)
 * [PDFClear](https://www.pdfclear.com/) - Client-Side
 * [DigiPDF](https://digipdf.app/?lang=en_US) - Client-Side
-* [Sejda](https://www.sejda.com/)
-* [ILovePDF](https://www.ilovepdf.com/)
-* [⁠PDFResizer](https://pdfresizer.com/)
-* [PDF2Go](https://www.pdf2go.com/)
-* [DPDF](https://dpdf.com/)
-* [Digiparser](https://www.digiparser.com/free-tools/pdf)
+* [Sejda](https://www.sejda.com/) - Server-Side
+* [ILovePDF](https://www.ilovepdf.com/) - Server-Side
+* [⁠PDFResizer](https://pdfresizer.com/) - Server-Side
+* [PDF2Go](https://www.pdf2go.com/) - Server-Side
+* [DPDF](https://dpdf.com/) - Server-Side
+* [Digiparser](https://www.digiparser.com/free-tools/pdf) - Server-Side
 
 ***
 
@@ -287,6 +285,7 @@
 * [⁠Phone Link](https://www.microsoft.com/windows/sync-across-your-devices) - Hybrid / Windows, Android, iOS
 * [Google Quick Share](https://www.android.com/quick-share/) - Hybrid / Windows, Android, iOS
 * [Sefirah](https://github.com/shrimqy/Sefirah) - Local / Windows, Android
+* [⁠AlterSend](https://github.com/denislupookov/altersend) - Local / Windows, macOS, Linux, Android, iOS
 * [QRServ](https://play.google.com/store/apps/details?id=dev.uint.qrserv) - Local / Android / [GitHub](https://github.com/uintdev/qrserv)
 * [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Online / Windows, macOS, Linux, Android
 * [croc](https://github.com/schollz/croc) - Online / Windows, macOS, Linux, Android / [GUI](https://github.com/howeyc/crocgui)
@@ -308,7 +307,7 @@
 
 * ⭐ **[PairDrop](https://pairdrop.net/)** / [GitHub](https://github.com/schlagmichdoch/pairdrop) or [⁠Snapdrop](https://node-snapdrop.onrender.com/) - Web
 * ⭐ **[JustBeamIt](https://justbeamit.com/)** - Web
-* [Surge](https://getsurge.io/) - P2P App / Windows, macOS / [GitHub](https://github.com/rule110-io/surge)
+* [Surge](https://github.com/rule110-io/surge) - P2P App / Windows, macOS
 * [ToffeeShare](https://toffeeshare.com/) - Web / [GitHub](https://github.com/ToffeeShare)
 * [⁠Station307](https://www.station307.com/) - Web
 * [new.space](https://new.space/) - iOS, Web
@@ -323,48 +322,47 @@
 
 ***
 
-* 🌐 **[⁠Matcha](https://www.matchaup.my/)** - File Host Status' / Index
+* 🌐 **[⁠Matcha](https://www.matchaup.my/)** - File Host Statuses / Index
 * 🌐 **[Awesome File Hosts](https://fhhy.vercel.app/)** / [GitHub](https://github.com/FahadBinHussain/awesome-file-hosts), **[Awesome Free File Hosting](https://github.com/Nick088Official/awesome-free-file-hosting)** or **[PolyUpload File Hosts](https://github.com/spel987/PolyUploader?tab=readme-ov-file#-hosts)** - File Host Indexes
 * ↪️ **[Video File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_video_file_hosts)**
 * ↪️ **[Image File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_image_hosts)**
 * ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / Unlimited / 10 Days After Last Download / [Manager Export](https://greasyfork.org/en/scripts/515250)
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 10GB / 60 Days After Last Download (10% min) / [Mirrors](https://docs.pixeldrain.com/questions_and_answers/#alternative-domain-names) / [Speedtest](https://pixeldrain.com/speedtest) / [Bypass](https://pixeldrain-bypass.gamedrive.to/)
-* ⭐ **[VikingFile](https://vikingfile.com/)** - Unlimited / 15 Days After Last Download / [Discord](https://discord.gg/EPEFC6KkpF) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md)
-* ⭐ **[0807](https://0807.st/)** - 10GB / 90 Days After Last Download / [Discord](https://discord.gg/0807) / [Codeberg](https://codeberg.org/Sauul/0807)
-* ⭐ **[⁠ZeroFS](https://zerofs.link/)** - Unlimited / 15 Days After Last Download / [CLI](https://github.com/kirmola/zerofs-cli) / [Discord](https://discord.gg/PJWsgUt7XM)
-* ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever (w/ Account) / 2 Years (Inactive Files w/ no Account) / [Proxy](https://fatbox.moe/)
+* ⭐ **[VikingFile](https://vikingfile.com/)** - Unlimited / 15 Days After Last Download / [Discord](https://discord.gg/EPEFC6KkpF)
+* ⭐ **[0807](https://0807.st/)** - 10GB / 30 Days After Last Download / [Discord](https://discord.gg/0807) / [Codeberg](https://codeberg.org/Sauul/0807)
 * ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
-* [Buzzheavier](https://buzzheavier.com/), [2](https://fuckingfast.net/), [3](https://bzzhr.to/) - Unlimited / 15 Day Expiry / +1 Hour Per DDL / **Use uBlock** / [File Expiry](https://buzzheavier.com/help) / [Discord](https://discord.gg/ttQjgC28WP) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md)
+* [Buzzheavier](https://buzzheavier.com/), [2](https://fuckingfast.net/), [3](https://bzzhr.co/) - Unlimited / 15 Day Expiry / +1 Hour Per DDL / **Use uBlock** / [File Expiry](https://buzzheavier.com/help) / [Discord](https://discord.gg/ttQjgC28WP) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md)
 * [⁠Rootz](https://rootz.so/) - 25GB / 15 Days After Last Download / Account Required / Unlimited for Backstage Users / **Use uBlock** / [Discord](https://discord.com/invite/rtz)
+* [⁠DropDrive](https://dropdrive.org/) -  100GB / 30 Days After Last Download
 * [FileQ](https://fileq.net/) - 50GB / 20GB / 3 Days After Last Download / Has Unlimited Plans / **Use uBlock** / [Discord](https://discord.gg/zc2r9pZzF)
 * [FileMirage](https://filemirage.com/) - 50GB / 30 Days After Last View / **Use uBlock**
-* [FileDitch](https://new.fileditch.com/) / [Discord](https://discord.gg/gACnap5kKx) or [SendGB](https://www.sendgb.com/) - 150GB / 90 Days
 * [Send.now](https://send.now/) - 100GB / 15 Days After Last Download (w/ Account)
 * [⁠Patrins](https://patrins.com/) - 1TB / 7 Days / [Discord](https://discord.gg/TrSHTfUaSN)
 * [DataNodes](https://datanodes.to/) - 5GB / 5 Days (After Last Download) / 25GB / 7 Days After Last Download (w/ Account) / **Use uBlock** / [Discord](https://discord.gg/mKyBMyeKvh) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md)
+* [⁠Luffy Files](https://luffyfiles.com/) - 10GB / 30 Days
+* [⁠Filekeeper](https://filekeeper.net/) - Unlimited / 7 Days After Last Download / Signup Required
 * [⁠storage.to](https://storage.to/) - 25GB / 7 Days
-* [Mocha](https://mocha.my/) - 15GB / 30 Days / Signup Required / [Multi-Tool App](https://github.com/nxllvxxd/Mocha-Tools) / [Lite Version](https://lite.mocha.my/) (500MB, No Signup)
+* [Mocha](https://mocha.my/) - 15GB / 30 Days / Signup Required / [Multi-Tool App](https://github.com/nxllvxxd/Mocha-Tools) / [Lite Version](https://lite.mocha.my/) (500MB, No Signup) / [Discord](https://discord.gg/hWPqHpCD3A)
 * [Litterbox](https://litterbox.catbox.moe/) - 1GB / 3 Days
-* [⁠DropDrive](https://dropdrive.org/) -  100GB / 30 Days After Last Download
+* [Catbox](https://catbox.moe/) - 200MB / Forever (w/ Account) / 2 Years (Inactive Files w/ no Account) / [Proxy](https://fatbox.moe/)
 * [Transfer.it](https://transfer.it/) - Unlimited / 90 Days / Owned by MEGA.nz
 * [MediaFire](https://www.mediafire.com/) - 4GB / Forever
 * [Hxfile](https://hxfile.co/), [2](https://down.mdiaload.com/), [3](https://down.fast-down.com/) - 5GB / 180 Days After Last View
 * [⁠UpClouds](https://upclouds.to/) - 10GB / 30 Days After Last View
 * [⁠pone](https://pone.rs/) - 1GB / Forever
 * [⁠Filester](https://filester.me/) - 10GB / 45 Days After Last Download
+* [FileDitch](https://new.fileditch.com/) / [Discord](https://discord.gg/gACnap5kKx) or [SendGB](https://www.sendgb.com/) - 150GB / 90 Days
 * [hostb](https://hostb.org/) - Unlimited / 30 Days After Last Download / [Source Code](https://r-w-x.org/r/hostb.git)
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Requires Signup
 * [Fast File](https://fast-file.com/) - 10GB / 20 Days After Last Download / [Status](https://status.fast-file.com/)
-* [⁠Luffy Files](https://luffyfiles.com/) - 5GB / 30 Days
 * [1fichier.com](https://1fichier.com/) - 300GB / 15 Days (30 Days w/ Account)
 * [Filebin](https://filebin.net/) - Unlimited / 6 Days / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filebin-warning.md)
 * [file.kiwi](https://file.kiwi/) - Unlimited / 90 Hours / [File Expiry](https://file.kiwi/en/price)
 * [⁠UpZur](https://upzur.com/) - 5GB / 1.95TB / 120 Days After Last Download / Requires Signup
-* [⁠UploadHive](https://uploadhive.com/) - Unlimited / 50 Days After Last Download / **Use uBlock**
 * [FireLoad](https://www.fireload.com/) - Unlimited / 60 Days / Requires Signup
 * [⁠Savedly](https://savedly.net/) - Unlimited / 7 Days
+* [⁠Stashr](https://stashr.wtf/) - 1GB / 30 Days After Last Download
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days / [Telegram](https://t.me/FEXNETWORK)
-* [⁠Filekeeper](https://filekeeper.net/) - Unlimited / 7 Days After Last Download / Signup Required
 * [DropMeFiles](https://dropmefiles.com/) - 50GB / 14 Days
 * [⁠MixLoads](https://mixloads.to/) - 25.6GB / 2TB / 60 Days After Last Download / Requires Signup
 * [⁠Transfr](https://www.transfr.me/) - 100GB / 7 Days
@@ -382,7 +380,7 @@
 * [FileFast](https://file.fast/) - 5GB / Unlimited
 * [Akira Box](https://akirabox.com/), [2](https://akirabox.to/) - 20GB Free / 30 Days After Last Download / **Use uBlock**
 * [Imagenetz](https://www.imagenetz.de/?setLang=en) - 5GB / 30 Days After Last Download
-* [patchy.moe](https://patchy.moe/), [2](https://ayaya.beauty/), [3](https://culiao.lol/) - 4GB / 14 Days / [Source Code](https://codeberg.org/Fijxu/patchy)
+* [patchy.moe](https://patchy.moe/), [2](https://ayaya.beauty/) - 4GB / 14 Days / [Source Code](https://codeberg.org/Fijxu/patchy)
 * [FilePort](https://fileport.io/) - 5GB / 7 Days
 * [MegaUp](https://megaup.net/) - 5GB / 30 Days
 * [uDrop](https://www.udrop.com/) - 5GB / Forever
@@ -401,6 +399,7 @@
 * [JUMBOmail](https://www.jumbomail.me/) - 2GB / 7 Days / Requires Email
 * [TransferSize](https://www.transfersize.com/) - 50GB / 7 Days
 * [4d2.sh](https://4d2.sh/) - 1GB / 730 Days Max
+* [pasted.sh](https://pasted.sh/) - 1GB / Forever / [GitHub](https://github.com/amnexya/pasted)
 * [DropMB](https://dropmb.com/) - 512MB / 5 Years
 * [⁠Lufi](https://upload.adminforge.de/) - 2GB / 30 Days
 * [FileGo](https://filego.app/) - 2GB / 30 Days / Requires Sign-Up
@@ -451,7 +450,7 @@
 
 ## ▷ Cloud Managers
 
-* ⭐ **[Rclone](https://rclone.org/)** - Cloud Storage Manager / [Guide](https://rentry.co/simple-rclone-usage) / [GUI](https://github.com/liriliri/rem) / [Colab](https://colab.research.google.com/github/szyha/RcloneLabArchive/blob/master/RcloneLab.ipynb) / [Transfer Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) / [Telegram](https://t.me/rclonexbot)
+* ⭐ **[Rclone](https://rclone.org/)** - Cloud Storage Manager / [Guide](https://rentry.co/simple-rclone-usage) / [GUI](https://github.com/liriliri/rem) / [Colab](https://colab.research.google.com/github/szyha/RcloneLabArchive/blob/master/RcloneLab.ipynb) / [Transfer Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) / [Telegram](https://t.me/rclonexbot) / [GitHub](https://github.com/rclone/rclone)
 * ⭐ **[gclone](https://github.com/dogbutcat/gclone)** - Cloud Storage Manager
 * ⭐ **[Air Explorer](https://airexplorer.net/en/)** - Cloud Storage Manager
 * ⭐ **[RaiDrive](https://www.raidrive.com/)** - Cloud Storage Manager

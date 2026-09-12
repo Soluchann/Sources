@@ -34,7 +34,7 @@
 * ⭐ **[Kroki](https://kroki.io/#try)** - Text to Diagrams / [CLI](https://github.com/yuzutech/kroki-cli)
 * ⭐ **[DataVizCatalogue](https://datavizcatalogue.com/)** - Data Visualization Wiki
 * [flowchart fun](https://flowchart.fun/) - Generate Flowchart from Text / [GitHub](https://github.com/tone-row/flowchart-fun)
-* [Pie Chart Maker](https://piechartmaker.co/), [2](https://www.piechartmaker.me/) - Create Pie Charts
+* [Pie Chart Maker](https://piechartmaker.co/) - Create Pie Charts
 * [Bar Graph Maker](https://www.bargraphmaker.net/) - Create Bar Graphs
 * [Vinnslu](https://maltsev.github.io/vinnslu/) - Tabular Data Parser
 * [⁠ArrayCat](https://arraycat.com/) - Convert Data to Array / [GitHub](https://github.com/Great-Software-Company/array_cat)
@@ -52,8 +52,9 @@
 * 🌐 **[Evernote.Design](https://www.evernote.design/)** - Design Resources
 * 🌐 **[The People's Design Library](https://rentry.co/FMHYB64#design-resources)** - Design Resources
 * 🌐 **[Design Resources](https://rentry.co/dt92f)**
+* [⁠rentryresource](https://rentryresource.neocities.org/) - Free Site Design / Neocities Resources
 
-[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](https://freebies.bypeople.com/), [Design Bundles](https://designbundles.net/free-design-resources), [Design Resources](https://designresourc.es/), [PSDDD.co](https://psddd.co/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [Sketch Repo](https://sketchrepo.com/), [Interfacer](https://interfacer.xyz/), [Freebiesbug](https://freebiesbug.com/), [Sketch App Sources](https://www.sketchappsources.com/), [FreebiesUI](https://freebiesui.com/), [Creative Fabrica](https://www.creativefabrica.com/freebies/), [Toools.design](https://www.toools.design/) / [2](https://t.me/envatoss) / [3](https://t.me/elements_downloader_bot), [Evernote.Design](https://www.evernote.design/), [GFXTRA](https://www.gfxtra31.com/), [XSGames](https://xsgames.co/devassets/), [design.dev](https://design.dev/), [UI STORE DESIGN](https://www.uistore.design/), [Pixelbuddha](https://pixelbuddha.net/), [squax](https://t.me/squaxassets), [𝖌𝖗𝖕𝖍𝖈 𝖉𝖘𝖌𝖓 𝖇𝖆𝖈𝖐𝖚𝖕](https://t.me/designlabb), [all 4 designer](https://t.me/all4designer), [GFXMountain](https://gfxmountain.com/), [degreeless](https://www.degreeless.design/), [CraftWork](https://craftwork.design/catalog/freebies)
+[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](https://freebies.bypeople.com/), [Design Bundles](https://designbundles.net/free-design-resources), [Design Resources](https://designresourc.es/), [PSDDD.co](https://psddd.co/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [Sketch Repo](https://sketchrepo.com/), [Interfacer](https://interfacer.xyz/), [Freebiesbug](https://freebiesbug.com/), [Sketch App Sources](https://www.sketchappsources.com/), [FreebiesUI](https://freebiesui.com/), [Creative Fabrica](https://www.creativefabrica.com/freebies/), [Toools.design](https://www.toools.design/) / [2](https://t.me/envatoss) / [3](https://t.me/elements_downloader_bot), [Evernote.Design](https://www.evernote.design/), [GFXTRA](https://www.gfxtra31.com/), [XSGames](https://xsgames.co/devassets/), [design.dev](https://design.dev/), [UI STORE DESIGN](https://www.uistore.design/), [Pixelbuddha](https://pixelbuddha.net/), [squax](https://t.me/squaxassets), [𝖌𝖗𝖕𝖍𝖈 𝖉𝖘𝖌𝖓 𝖇𝖆𝖈𝖐𝖚𝖕](https://t.me/designlabb), [all 4 designer](https://t.me/all4designer), [GFXMountain](https://gfxmountain.com/), [degreeless](https://www.degreeless.design/), [CraftWork](https://craftwork.design/catalog/freebies), [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools)
 
 ***
 
@@ -98,6 +99,7 @@
 * [ClassicGameZone](https://classicgamezone.com/) - Retro Consoles / EmulatorJS
 * [retroplayonline](https://www.retroplayonline.com/) - Retro Consoles / EmulatorJS
 * [Pegasus Online](https://pegasus-online.pl/en/) - Retro Consoles / EmulatorJS
+* [EmulatorGamesZone](https://emulatorgameszone.com/) - Retro Consoles / EmulatorJS
 * [LetsPlayGB](https://www.letsplaygb.com/) - Game Boy / EmulatorJS
 * [Play NES](https://www.playnesonline.com/) - NES Browser Emulator / EmulatorJS
 * [Let's Play Sega](https://www.letsplaysega.com/) - Sega Genesis Browser Emulator / EmulatorJS
@@ -151,7 +153,6 @@
 * [SSHKit](https://sshkit.com/)
 * [JagoanSSH](https://www.jagoanssh.com/)
 * [fastssh](https://www.fastssh.com/)
-* [Mytunneling](https://www.mytunneling.com/)
 * [OpenTunnel](https://opentunnel.net/)
 * [Howdy](https://howdy.id/)
 * [ProxyBot](https://t.me/vamproxy_bot) - Telegram Proxy Bot
@@ -164,28 +165,20 @@
 * 🌐 **[⁠GD Demon / Challenge Lists](https://docs.google.com/document/d/1tYM7XWS18B7s2g4lplzF6qU2T8LHi3-kQkybGIhXlqE)**
 * ⭐ **[Pointercrate](https://pointercrate.com/demonlist/)** - Original Demon List / [Stats Viewer](https://pointercrate.com/demonlist/statsviewer/) / [Discord](https://discord.com/invite/hfGJ8jMp) / [GitHub](https://github.com/stadust/pointercrate)
 * ⭐ **[AREDL](https://aredl.net/)** - All Rated Extreme Demons List / [Discord](https://discord.com/invite/aredl) / [GitHub](https://github.com/All-Rated-Extreme-Demon-List)
+* [⁠EDEL](https://docs.google.com/spreadsheets/d/1-2-n2aU__rQya_IESevHjEU0f1xbegKUZEslk7fV38Q/) - Extreme Demon Enjoyment List / [Discord](https://discord.com/invite/pdeZY2FU3U)
 * [Pemonlist](https://pemonlist.com/) / [Discord](https://discord.com/invite/fZuXFtFzVQ) / [GitHub](https://github.com/TheGElCOgecko/pemonlist) or [Platformer List](https://gdplatformerlist.com/) / [Discord](https://discord.gg/wuf9CZsd9D) - Platformer Demon Lists / Leaderboards
-* [Index ⁠HDL](https://hdl.pages.dev/) - Hard Demon List / [Discord](https://discord.gg/fKKWjUBfk7)
-* [LRR Demonlist](https://gdlrrlist.com/) - Low Refresh Rate Demon List / [Discord](https://discord.gg/PCQ5V3e)
 * [UDL](https://udl.pages.dev/) or [Demonlist](https://demonlist.org/) - Unrated Demons Lists
 * [IDL](https://insanedemonlist.com/) - Insane Demon List / [Discord](https://discord.com/invite/7JbFjRqSQ4)
+* [⁠HDL](https://hdl.pages.dev/) - Hard Demon List / [Discord](https://discord.gg/fKKWjUBfk7)
 * [MDL](https://mediumdemonslist.pages.dev/) - Medium Demon List / [Discord](https://discord.gg/CwjaCCZvsX)
 * [EDL](https://easydemonlist.pages.dev/) - Easy Demon List / [Discord](https://discord.gg/XGN69bmuQh)
 * [HPPL](https://docs.google.com/document/d/1RZ524Gsou0w4djb3I13vvYV6Q9pp77UjlJkS_Et8b28/) - Hardest Physically Possible Levels List / [Discord](https://discord.com/invite/CGxaTGJaGV)
 * [HTPL](https://docs.google.com/document/d/1GvNWez3Vh3Q6AQXLshYOmA3sXG-9JbV6Zf7ZzRpba0o/) - Hardest Theoretically Possible Levels List / [Discord](https://discord.com/invite/F5U8CQshJv)
 * [HRR Mobile List](https://mobilepointercrate.com/) - High Refresh Rate Mobile List / [Discord](https://discord.com/invite/q3GNPb7X)
+* [LRR Demonlist](https://gdlrrlist.com/) - Low Refresh Rate Demon List / [Discord](https://discord.gg/PCQ5V3e)
 * [Impossible Levels List](https://impossiblelevels.com/) / [Discord](https://discord.gg/MHx4Nbp)
 * [Nine Circles Demonlist](https://ninecirclesdemonlist.com/) / [Doc](https://sites.google.com/view/nine-circles-demonlist/home) / [Discord](https://discord.com/invite/aA9Q54jNXy)
-
-***
-
-## Git Projects
-
-* [GitHub Rankings](https://evanli.github.io/Github-Ranking/) - Git Project Rankings / [GitHub](https://github.com/EvanLi/Github-Ranking)
-* [Active GitHub Forks](https://techgaun.github.io/active-forks/) - List of Active GitHub Forks
-* [Lovely Forks](https://github.com/musically-ut/lovely-forks) - View Repository Forks
-
-[Awesome Made by Brazilians](https://github.com/felipefialho/awesome-made-by-brazilians), [Awesome Opensource Apps](https://github.com/unicodeveloper/awesome-opensource-apps), [LibHunt](https://www.libhunt.com/), [bestofjs](https://bestofjs.org/), [git.news](https://git.news/), [GitPlanet](https://gitplanet.com/)
+* [⁠2P List](https://2plist.github.io/2plist) - 2 Player GD List / [Discord](https://discord.com/invite/carQUB7JN2)
 
 ***
 
@@ -202,7 +195,8 @@
 
 * ⭐ **[TheMoeWay](https://learnjapanese.moe/)** / [Discord](https://discord.gg/nhqjydaR8j)
 
-[Kakugo](https://github.com/blastrock/kakugo), [Marshall's Site](https://marshallyin.com/), [HeyJapan](https://heyjapan.net/), [Renshuu](https://www.renshuu.org/), [GuideToJapanese](https://guidetojapanese.org/), [jpdb](https://jpdb.io/), [NativShark](https://www.nativshark.com/), [Donkuri](https://donkuri.github.io/learn-japanese/), [Tofugu](https://www.tofugu.com/), [KanaDojo](https://kanadojo.com/en) / [GitHub](https://github.com/lingdojo/kana-dojo), [⁠Lingual Ninja](https://www.lingual-ninja.com/)
+[Kakugo](https://github.com/blastrock/kakugo), [Marshall's Site](https://marshallyin.com/), [HeyJapan](https://heyjapan.net/), [Renshuu](https://www.renshuu.org/), [GuideToJapanese](https://guidetojapanese.org/), [jpdb](https://jpdb.io/), [NativShark](https://www.nativshark.com/), [Donkuri](https://donkuri.github.io/learn-japanese/), [Tofugu](https://www.tofugu.com/), [KanaDojo](https://kanadojo.com/en) / [GitHub](https://github.com/lingdojo/kana-dojo), [⁠Lingual Ninja](https://www.lingual-ninja.com/), [⁠Ten](https://www.ten.guide/) / [Discord](https://discord.com/invite/immerse)
+
 
 ### YouTube Channels
 
@@ -268,7 +262,7 @@
 
 ### Letterboxd Tools
 
-[Multi Tool](https://www.letterboxd.tools/) / [Extra Site Ratings](https://github.com/duncanlang/Letterboxd-Extras/) / [Shortcuts](https://github.com/alandours/letterboxd-shortcuts) / [Watchlist Picker](https://watchlistpicker.com/) / [Watchlist Roulette](https://watchlistroulette.com/) / [Collections](https://mrdys.github.io/letterboxd-completionist/)
+[Multi Tool](https://www.letterboxd.tools/) / [Extra Site Ratings](https://github.com/duncanlang/Letterboxd-Extras/) / [Shortcuts](https://github.com/alandours/letterboxd-shortcuts) / [Watchlist Picker](https://watchlistpicker.com/) / [Watchlist Roulette](https://watchlistroulette.com/) / [Collections](https://mrdys.github.io/letterboxd-completionist/) /  [Celeb Accounts](https://fameboxd.com/)
 
 ### MyAnimeList Tools
 
@@ -349,7 +343,7 @@
 * [Inscribed](https://inscribed.app/) - Sketch-Based Slides / [GitHub](https://github.com/chunrapeepat/inscribed)
 * [Slidev](https://sli.dev/) - Markdown Presentation Slides / [GitHub](https://github.com/slidevjs/slidev)
 
-[Marp](https://marp.app/), [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit), [Presentator](https://presentator.io/), [Fusuma](https://hiroppy.github.io/fusuma/), [Pitch](https://pitch.com/), [Zoho Show](https://www.zoho.com/show/), [Webslides](https://webslides.tv/), [FreeShow](https://freeshow.app/), [Presenta](https://play.presenta.cc/), [OpenLearning](https://www.openelearning.org/), [Slideshare](https://www.slideshare.net/), [Excalideck](https://excalideck.com/)
+[Marp](https://marp.app/), [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit), [Presentator](https://presentator.io/), [Fusuma](https://hiroppy.github.io/fusuma/), [Pitch](https://pitch.com/), [Zoho Show](https://www.zoho.com/show/), [Webslides](https://webslides.tv/), [FreeShow](https://freeshow.app/), [Presenta](https://play.presenta.cc/), [OpenLearning](https://www.openelearning.org/), [Slideshare](https://www.slideshare.net/), [Excalideck](https://excalideck.com/), [⁠Bento](https://github.com/nyblnet/bento)
 
 ### Presentation Templates
 
@@ -359,7 +353,7 @@
 
 ### Slideshare Downloaders
 
-[DownloaderSlides](https://downloderslides.com/), [SlideShareSaver](https://slidesharesaver.com/), [SlideSaver](https://slidesaver.app/)
+[SlideShareSaver](https://slidesharesaver.com/)
 
 ***
 
@@ -393,21 +387,18 @@
 * https://search.2b9t.xyz/
 * https://search.mdosch.de/
 * https://www.gruble.de/
-* https://searx.tuxcloud.net/
-* https://seek.fyi/
 
 ***
 
 ## SMS Verification Sites
 
-* ⭐ **[SMSCodeOnline](https://smscodeonline.com/)**
 * ⭐ **[receive-sms-online](https://www.receive-sms-online.info/)** - Requires Sign-Up
 * ⭐ **[mianfeijiema](https://mianfeijiema.com/)** or [us-phone-number](https://us-phone-number.com/)
 * ⭐ **[sms24](https://www.sms24.me/)**
 * ⭐ **[receive-sms](https://receive-sms.cc/)**
 * ⭐ **[⁠SMSOnline](https://www.smsonline.cloud/)**
 
-[TemporaryNumber](https://temporarynumber.com/), [TextNow](https://www.textnow.com/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [Smser](https://smser.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [My Trash Mobile](https://www.mytrashmobile.com/), [temp-sms](https://temp-sms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [receive-smss](https://receive-smss.com), [receive-sms-free](https://receive-sms-free.cc/), [quackr](https://quackr.io/), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [receivesmsonline](https://receivesmsonline.in/), [jiemadi](https://www.jiemadi.com/en), [ReceiveSMSOnline](https://receivesmsonline.me/), [7sim](https://7sim.net/), [yunjiema](https://yunjiema.net/), [us-phone-number](https://us-phone-number.com/), [shownumber](https://lothelper.com/en/shownumber), [yunduanxin](https://yunduanxin.net/), [smsget](https://smsget.net/), [free-sms-receive](https://www.free-sms-receive.com/), [receivefreesms](https://receivefreesms.co.uk/), [smspinverify](https://smspinverify.com/), [receivefreesms.net](https://receivefreesms.net/), [receivesmsonline](https://www.receivesmsonline.net/), [smspool](https://www.smspool.net/free-sms-verification), [receive-smss](https://receive-smss.live/), [⁠eSIM Plus](https://esimplus.me/temporary-numbers), [receivesms](https://www.receivesms.co/), [PVAPins](https://pvapins.com/free-numbers), [⁠OnlineSim](https://onlinesim.io/), [⁠ReceiveSMSFast](https://receivesmsfast.com/), [Receive-SMS](https://receive-sms.io/), [⁠Verify SMS](https://verifysmsfree.com/), [⁠7Sim](https://7sim.net/), [⁠TempSMSOnline](https://tempsmsonline.com/), [SMSReceiveFree](https://smsreceivefree.xyz/), [⁠Sanalonay](https://sanalonay.com/), [⁠Text Verification](https://text-verification.net/), [⁠Online Sim](https://online-sim.pro/), [⁠FreePhone](https://freephone.io/), [⁠FreeReceiveSMS](https://freereceivesms.top/), [⁠Receive SMS Free](https://receivesms-free.com/), [⁠TempBoxPro](https://tempboxpro.com/temp-number), [⁠XNSMS](https://www.xnsms.com/), [gettempnumber](https://gettempnumber.com/), [ZUSMS](https://www.zusms.com/en)
+[TemporaryNumber](https://temporarynumber.com/), [TextNow](https://www.textnow.com/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [Smser](https://smser.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [My Trash Mobile](https://www.mytrashmobile.com/), [temp-sms](https://temp-sms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [storytrain](https://www.storytrain.info/), [Temp Number](https://temp-number.com/), [receive-smss](https://receive-smss.com), [receive-sms-free](https://receive-sms-free.cc/), [quackr](https://quackr.io/), [smsnator](https://smsnator.online/), [InboxSMS](https://inboxsms.me/), [anonymsms](https://anonymsms.com/temporary-phone-number/), [receivesmsonline](https://receivesmsonline.in/), [jiemadi](https://www.jiemadi.com/en), [7sim](https://7sim.net/), [yunjiema](https://yunjiema.net/), [shownumber](https://lothelper.com/en/shownumber), [yunduanxin](https://yunduanxin.net/), [free-sms-receive](https://www.free-sms-receive.com/), [receivefreesms](https://receivefreesms.co.uk/), [smspinverify](https://smspinverify.com/), [receivefreesms.net](https://receivefreesms.net/), [smspool](https://www.smspool.net/free-sms-verification), [receive-smss](https://receive-smss.live/), [⁠eSIM Plus](https://esimplus.me/temporary-numbers), [receivesms](https://www.receivesms.co/), [PVAPins](https://pvapins.com/free-numbers), [⁠OnlineSim](https://onlinesim.io/), [⁠ReceiveSMSFast](https://receivesmsfast.com/), [Receive-SMS](https://receive-sms.io/), [⁠Verify SMS](https://verifysmsfree.com/), [⁠TempSMSOnline](https://tempsmsonline.com/), [SMSReceiveFree](https://smsreceivefree.xyz/), [⁠Sanalonay](https://sanalonay.com/), [⁠Text Verification](https://text-verification.net/), [⁠Online Sim](https://online-sim.pro/), [⁠FreePhone](https://freephone.io/), [⁠FreeReceiveSMS](https://freereceivesms.top/), [⁠Receive SMS Free](https://receivesms-free.com/), [⁠TempBoxPro](https://tempboxpro.com/temp-number), [gettempnumber](https://gettempnumber.com/), [ZUSMS](https://www.zusms.com/en), [PVAcodes](https://pvacodes.com/free-number), [Anosim](https://www.anosim.net/freenumbers)
 
 ***
 
@@ -427,7 +418,7 @@
 
 * 🌐 **[Awesome Icons](https://github.com/notlmn/awesome-icons)**, **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#icons)** or **[Free Icons](https://www.iconshock.com/freeicons/)** - Icon Site Indexes
 * ⭐ **[Iconify](https://iconify.design/)** - Icon Collections 
-* ⭐ **[Icons8](https://icons8.com/icons)** - Icon Collections / [Downloader](https://github.com/Kyutefox/Iconify)
+* ⭐ **[Icons8](https://icons8.com/icons)** - Icon Collections
 * ⭐ **[SVG Repo](https://www.svgrepo.com/)** - Icon Collections
 * ⭐ **[Noun Project](https://thenounproject.com/)** - Monochrome Icons
 * ⭐ **[SVGL](https://svgl.app/)**, [Dashboard Icons](https://dashboardicons.com/) or [selfh.st](https://selfh.st/icons/) / [GitHub](https://github.com/selfhst/icons) - Company / Program Icons
@@ -435,7 +426,7 @@
 * [GrommetIcons](https://icons.grommet.io/) - SVG Icons for React
 * [HealthIcons](https://healthicons.org/) - Medical Icons
 
-[Icofont](https://icofont.com/icons), [VisualPharm](https://visualpharm.com/), [Google Icons](https://fonts.google.com/icons), [iconer](https://iconer.app/), [SimpleIcons](https://simpleicons.org/), [xIcons](https://xicons.org), [Polaris](https://polaris.shopify.com/icons), [Phosphor Icons](https://phosphoricons.com/), [iCongo](https://icongo.github.io/), [IconFinder](https://www.iconfinder.com/), [Lucide](https://lucide.dev/), [Ant Design](https://ant.design/components/icon/), [IconPacks](https://www.iconpacks.net/), [Iconbuddy](https://iconbuddy.com/), [Orion](https://www.orioniconlibrary.com/), [Flaticon](https://www.flaticon.com/) / [Downloader](https://github.com/Kyutefox/Iconify), [Devicon](https://devicon.dev/), [Glyphs](https://glyphs.fyi/), [IconArchive](https://iconarchive.com/), [IconDuck](https://iconduck.com/), [icon icons](https://icon-icons.com/), [Streamline](https://www.streamlinehq.com/), [Icones](https://icones.js.org/), [CaptainIconWeb](https://mariodelvalle.github.io/CaptainIconWeb/), [IconNinja](https://www.iconninja.com/), [awsicons](https://awsicons.dev/), [iconoir](https://iconoir.com/), [heroicons](https://heroicons.dev/), [composeicons](https://composeicons.com/), [iconmonstr](https://iconmonstr.com/), [Nerd Fonts](https://www.nerdfonts.com/), [websvg](https://websvg.com/), [svgsilh](https://svgsilh.com/), [pictogrammers](https://pictogrammers.com/), [svgstack](https://svgstack.com/), [iconshelf](https://iconshelf.com/), [tabler icons](https://tabler.io/icons), [FreeSVG](https://freesvg.org/), [GriddyIcons](https://griddyicons.com/), [icons-for-free](https://icons-for-free.com/), [Solar](https://github.com/480-Design/Solar-Icon-Set), [Reicon](https://reicon.dev/)
+[Icofont](https://icofont.com/icons), [VisualPharm](https://visualpharm.com/), [Google Icons](https://fonts.google.com/icons), [iconer](https://iconer.app/), [SimpleIcons](https://simpleicons.org/), [xIcons](https://xicons.org), [Polaris](https://polaris.shopify.com/icons), [Phosphor Icons](https://phosphoricons.com/), [iCongo](https://icongo.github.io/), [IconFinder](https://www.iconfinder.com/), [Lucide](https://lucide.dev/), [Ant Design](https://ant.design/components/icon/), [IconPacks](https://www.iconpacks.net/), [Iconbuddy](https://iconbuddy.com/), [Orion](https://www.orioniconlibrary.com/), [Flaticon](https://www.flaticon.com/), [Devicon](https://devicon.dev/), [Glyphs](https://glyphs.fyi/), [IconArchive](https://iconarchive.com/), [IconDuck](https://iconduck.com/), [icon icons](https://icon-icons.com/), [Streamline](https://www.streamlinehq.com/), [Icones](https://icones.js.org/) / [GitHub](https://github.com/antfu-collective/icones), [CaptainIconWeb](https://mariodelvalle.github.io/CaptainIconWeb/), [IconNinja](https://www.iconninja.com/), [awsicons](https://awsicons.dev/), [iconoir](https://iconoir.com/), [heroicons](https://heroicons.dev/), [composeicons](https://composeicons.com/), [iconmonstr](https://iconmonstr.com/), [Nerd Fonts](https://www.nerdfonts.com/), [websvg](https://websvg.com/), [svgsilh](https://svgsilh.com/), [pictogrammers](https://pictogrammers.com/), [svgstack](https://svgstack.com/), [iconshelf](https://iconshelf.com/), [tabler icons](https://tabler.io/icons), [FreeSVG](https://freesvg.org/), [GriddyIcons](https://griddyicons.com/), [icons-for-free](https://icons-for-free.com/), [Solar](https://github.com/480-Design/Solar-Icon-Set), [Reicon](https://reicon.dev/)
 
 ***
 
@@ -444,17 +435,6 @@
 * ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)** or **[Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups)** - Firefox
 
 [OneTab](https://www.one-tab.com/), [Tab Stash](https://josh-berry.github.io/tab-stash/), [Tab Butler](https://tabbutler.netlify.app/), [One Tab Group](https://www.tabdeck.so/), [TreeStyleTabs](https://github.com/piroor/treestyletab)
-
-***
-
-## Telegram eBook Download
-
-* [BooksWorld](https://t.me/Books_worldd) - Amharic Audiobooks
-* [NovelsArchive](https://t.me/NovelsArchive) - Popular Novels
-* [Free eBooks](https://t.me/free_ebooks_pdfs) - Educational eBooks
-* [Dao](https://t.me/Dao_Qigong_Taiji_TCM_ebooks) - Spiritual Eastern Literature
-* [LibraryOfDos](https://t.me/lib_of_dos_old_vk) - Esoteric Russian Literature
-* [More Telegram eBook Channels](https://duckduckgo.com/?q=site%3At.me+books&ia=web)
 
 ***
 
@@ -482,4 +462,4 @@
 * [udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - Udemy Downloader
 * [Udemy Download Guide](https://docs.google.com/document/d/1W91OS9rj7h9DBp5UwR68lA2zMEtqNmxdGaNVmBktIaw/) / [Discord](https://discord.gg/tMzrSxQ)
 
-[discudemy](https://www.discudemy.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [freebiesglobal](https://freebiesglobal.com/), [onlinecourses](https://www.onlinecourses.ooo/), [UdemyKing](https://t.me/udemyking1), [CourseArray](https://t.me/udemycoursesfree), [Udemy 24](https://coursesbag.com/), [UdemyFreeCourses](https://udemyfreecourses.org/), [Study Bullet](https://studybullet.com/) / [Telegram](https://telegram.me/joinchat/AAAAAFdxBDqPv7ZzVoUASw), [r/udemyfreebies](https://reddit.com/r/udemyfreebies), [Online Courses Tracker](https://comidoc.com/), [Real.Discount](https://www.real.discount/), [OnlineTutorials](https://www.onlinetutorials.org/), [Scroll Coupons](https://scrollcoupons.com/) / [Telegram](https://t.me/scroll_coupons), [UdemyXpert](https://udemyxpert.com/) / [Telegram](https://t.me/UdemyXpert), [⁠Forasm Free Courses](https://m.forasm.com/courses/), [FreeCourseSites](https://freecoursesites.com/)
+[discudemy](https://www.discudemy.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [freebiesglobal](https://freebiesglobal.com/), [onlinecourses](https://www.onlinecourses.ooo/), [UdemyKing](https://t.me/udemyking1), [CourseArray](https://t.me/udemycoursesfree), [Udemy 24](https://coursesbag.com/), [UdemyFreeCourses](https://udemyfreecourses.org/), [Study Bullet](https://studybullet.com/) / [Telegram](https://telegram.me/joinchat/AAAAAFdxBDqPv7ZzVoUASw), [r/udemyfreebies](https://reddit.com/r/udemyfreebies), [Online Courses Tracker](https://comidoc.com/), [Real.Discount](https://www.real.discount/), [OnlineTutorials](https://www.onlinetutorials.org/), [Scroll Coupons](https://scrollcoupons.com/) / [Telegram](https://t.me/scroll_coupons), [UdemyXpert](https://udemyxpert.com/) / [Telegram](https://t.me/UdemyXpert), [FreeCourseSites](https://freecoursesites.com/)
