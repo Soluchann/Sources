@@ -171,6 +171,7 @@
 * [Monid + TinyFish](https://monid.ai/blog/tinyfish) - Free web search and page fetch for AI agents
 * [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Free MIT AI gateway (multi-provider, auto-fallback) for coding agents
 * [Hyperloom](https://github.com/AMD-AGI/Hyperloom) - Agentic system that auto-optimizes LLM workloads on AMD GPUs
+* [Fuck My Resume](https://fuck-my-resume.vercel.app/) - AI resume tailoring, cold outreach drafts, and mock interviews
 
 ***
 ***
