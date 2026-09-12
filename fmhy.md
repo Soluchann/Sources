@@ -234,11 +234,13 @@
 * [Neo Macro](https://neomacro.in/) - Enthusiast mechanical keyboards, mice, switches, and keycaps
 * [Headphone Zone](https://www.headphonezone.in/) - Audiophile IEMs, headphones, DACs, and amps (India)
 * [Concept Kart](https://conceptkart.com/) - IEMs, headphones, DACs/amps, keyboards, and gadgets
+* [Luna Band](https://www.lunazone.com/products/luna-band) - Personalised health coach and sleep tracker wearable
 * [Keepa](https://keepa.com/) - Amazon price history charts, drop alerts, and watches
 
 ### Fragrance (India)
 
 * [Fragaholic](https://fragaholic.in) - Fragrance store (India)
+* [Scent Holic](https://www.scentholic.com/#products) - Premium fragrance decants (India)
 * [Sovereign Scents](https://sovereignscents.in) - Authentic luxury perfumes, decants, and testers
 * [Wellscented](https://wellscented.in) - Curated luxury and niche fragrances
 * [Whiff Culture](https://www.whiffculture.com) - Fragrance / perfume store
