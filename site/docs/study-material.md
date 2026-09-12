@@ -34,6 +34,8 @@
 * [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/) - Algorithmica book on HPC, performance, and modern CPU/GPU algorithms
 * [GPU Perf Engineering Resources (Wafer AI)](https://github.com/wafer-ai/gpu-perf-engineering-resources) - Curated list from GPU fundamentals to production inference
 * [Backend from First Principles](https://backend-from-first-principle.vercel.app/) - 24-chapter backend series from HTTP fundamentals to WebSockets
+* [TrenTorch](https://www.trentorch.com/) - Build an ML framework from NumPy (tensor to transformer)
+* [Original Transformer vs DeepSeek](https://transformer-architecture.petergostev.chatgpt.site/) - Interactive 3D comparison of the original Transformer and DeepSeek V4.1 Flash
 
 ***
 
