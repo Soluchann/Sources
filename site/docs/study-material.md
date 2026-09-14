@@ -36,6 +36,10 @@
 * [Backend from First Principles](https://backend-from-first-principle.vercel.app/) - 24-chapter backend series from HTTP fundamentals to WebSockets
 * [TrenTorch](https://www.trentorch.com/) - Build an ML framework from NumPy (tensor to transformer)
 * [Original Transformer vs DeepSeek](https://transformer-architecture.petergostev.chatgpt.site/) - Interactive 3D comparison of the original Transformer and DeepSeek V4.1 Flash
+* [Lil'Log (Lilian Weng)](https://lilianweng.github.io/) - ML / AI research notes and deep-dive blog
+* [QR Decomp at the Speed of Light](https://ml-mike.com/writing/qr_v2/) - B200 QR kernel writeup from the GPU MODE qr_v2 competition
+* [Anatomy of High-Performance Matmul Kernels](https://www.aleksagordic.com/blog/matmul) - NVIDIA GPU matmul from architecture to Hopper tensor cores (Aleksa Gordić)
+* [CUDA From Scratch](https://pythongiant.github.io/CUDA-From-Scratch/) - Primer from zero GPU knowledge to writing CUDA kernels
 
 ***
 
@@ -48,6 +52,7 @@
 * [Looking Back at Speculative Decoding](https://research.google/blog/looking-back-at-speculative-decoding/) - Google Research on speculative decoding
 * [How Speculative Decoding Makes LLMs Go Brrr](https://leoniemonigatti.com/blog/speculative-decoding.html) - Draft-and-verify, Medusa, EAGLE, DFlash, and DSpark
 * [KV Cache Quantization (Hugging Face)](https://huggingface.co/blog/kv-cache-quantization) - Compress KV cache for longer generations
+* [KV Cache Compression and Its Infra Problems](https://research.nvidia.com/labs/eai/blogs/kv-cache-compression-and-its-infra-problems/) - NVIDIA EAI on why lab KV compression often fails in production
 * [FlashInfer](https://arxiv.org/abs/2501.01005) - Attention engine paper
 * [Zipage](https://arxiv.org/abs/2603.08743) - Compressed PagedAttention paper
 * [IceCache](https://arxiv.org/abs/2604.10539) - Memory-efficient KV cache paper
