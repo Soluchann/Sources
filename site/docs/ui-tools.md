@@ -22,6 +22,7 @@
 * [Beautiful UI](https://beautiful-ui-five.vercel.app/) - Crafted copy-paste primitives for AI-native interfaces
 * [beUI Pro](https://pro.beui.dev/) - Animated React backgrounds, motion components, and UI blocks
 * [bloub](https://bloub.vercel.app/) - Animated SVG avatar generator
+* [Photon Studio](https://tenzen.studio/photon/) - Free local desktop image editor with layers, retouching, and PSD support
 
 ***
 
