@@ -18,3 +18,5 @@
 * [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Free MIT AI gateway (multi-provider, auto-fallback) for coding agents
 * [Hyperloom](https://github.com/AMD-AGI/Hyperloom) - Agentic system that auto-optimizes LLM workloads on AMD GPUs
 * [Ponytail](https://github.com/dietrichgebert/ponytail) - Agent skill that pushes for the least code that still works
+* [Fuck My Resume](https://fuck-my-resume.vercel.app/) - AI resume tailoring, cold outreach drafts, and mock interviews
+* [Jev Ultrafast](https://github.com/browser-use/jev-ultrafast) - Fast browser agent with a dynamic indexed action space (Browser Use)
