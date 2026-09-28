@@ -17,3 +17,4 @@
 * [Monid + TinyFish](https://monid.ai/blog/tinyfish) - Free web search and page fetch for AI agents
 * [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Free MIT AI gateway (multi-provider, auto-fallback) for coding agents
 * [Hyperloom](https://github.com/AMD-AGI/Hyperloom) - Agentic system that auto-optimizes LLM workloads on AMD GPUs
+* [Ponytail](https://github.com/dietrichgebert/ponytail) - Agent skill that pushes for the least code that still works
