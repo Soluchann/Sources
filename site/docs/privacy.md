@@ -6,7 +6,7 @@
 
 # ► Adblocking
 
-* **Note** - Many sites contain ads, popups or redirects, so we [highly recommend](https://fmhy.net/beginners-guide#adblocking) using an adblocker. Don't run multiple general adblockers (e.g., uBlock Origin and AdGuard) simultaneously to [avoid breakage](https://x.com/gorhill/status/1033706103782170625). Combining general adblockers with tools like SponsorBlock is fine. Also note full version of uBO works significantly better than the lite version.
+* **Note** - Many sites contain ads, popups or redirects, so we [highly recommend](https://fmhy.net/beginners-guide#adblocking) using an adblocker. Don't run multiple general adblockers (e.g., uBlock Origin and AdGuard) simultaneously to [avoid breakage](https://x.com/gorhill/status/1033706103782170625) / [2](https://xcancel.com/gorhill/status/1033706103782170625). Combining general adblockers with tools like SponsorBlock is fine. Also note full version of uBO works significantly better than the lite version.
 
 ***
 
@@ -33,12 +33,10 @@
 
 * 🌐 **[FilterLists](https://filterlists.com/)** - Filter / Host List Directory
 * ⭐ **[LegitimateURLShortener](https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt)** - Query Parameter Cleaning Rules / Use with AdGuard URL Tracking Protection
-* ⭐ **[Hagezi Blocklists](https://github.com/hagezi/dns-blocklists)**, [2](https://gitlab.com/hagezi/mirror) / [Host Format](https://github.com/hagezi/dns-blocklists-legacy) - Blocklist Collection / Use Mini Editions / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hagezi.md)
-* [blacklist](https://github.com/anudeepND/blacklist) - Blocklist Collection / [Whitelist Note](https://github.com/anudeepND/blacklist#common-issues)
+* ⭐ **[HaGeZi Blocklists](https://github.com/hagezi/dns-blocklists)**, [2](https://gitlab.com/hagezi/mirror) / [Host Format](https://github.com/hagezi/dns-blocklists-legacy) - Blocklist Collection / Use Mini Editions / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hagezi.md)
 * [hBlock](https://hblock.molinero.dev/) - Blocklist Collection / [GitHub](https://github.com/hectorm/hblock)
 * [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist) - Unsafe Sites Filter
 * [AI uBlock Blacklist](https://github.com/alvi-se/ai-ublock-blacklist) - Blocks AI Generated Sites
-* [⁠Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - Removes AI Imagery from Search Engines 
 
 ***
 
@@ -53,7 +51,6 @@
 * ⭐ **[Pi-Hole](https://pi-hole.net/)** - Self-Hosted DNS Adblocking / [X](https://x.com/The_Pi_Hole) / [Subreddit](https://reddit.com/r/pihole/) / [GitHub](https://github.com/pi-hole)
 * ⭐ **Pi-Hole Tools** - [Filters](https://firebog.net/), [2](https://github.com/zachlagden/Pi-hole-Optimized-Blocklists) / [Tray App](https://github.com/PinchToDebug/Pihole-Tray/) / [Android Server](https://github.com/DesktopECHO/Pi-hole-for-Android) (root)
 * ⭐ **[AdGuard Home](https://adguard.com/en/adguard-home/overview.html)** - Self-Hosted DNS Adblocking / [Balena-AdGuard](https://github.com/klutchell/balena-adguard) / [X](https://x.com/adguard) / [Subreddit](https://reddit.com/r/Adguard) / [Telegram](https://t.me/adguarden) / [GitHub](https://github.com/AdguardTeam/AdGuardHome)
-* ⭐ **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS Adblocking / Filtering / [Extension](https://mullvad.net/en/download/browser/extension) / [GitHub](https://github.com/mullvad)
 * [DNS Speed Test](https://dnsspeedtest.online/) / [GitHub](https://github.com/BrainicHQ/DoHSpeedTest), [DNS Perf](https://dnsperf.com/dns-speed-benchmark) or [NameBench](https://code.google.com/archive/p/namebench/) - DNS Speed Tests
 * [YogaDNS](https://yogadns.com/) - Custom DNS Client for Windows
 * [NextDNS](https://nextdns.io) - Customizable DNS Adblocking Service / [Guide](https://github.com/yokoffing/NextDNS-Config) / [Video](https://youtu.be/WUG57ynLb8I) / [GitHub](https://github.com/nextdns/nextdns)
@@ -74,10 +71,10 @@
 
 ## ▷ DNS Filters
 
-* ⭐ **[Hagezi Blocklists](https://github.com/hagezi/dns-blocklists)**, [2](https://gitlab.com/hagezi/mirror) / [Host Format](https://github.com/hagezi/dns-blocklists-legacy) - Multi-Source Domain Blocklist / Use Full Edition / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hagezi.md)
+* ⭐ **[HaGeZi Blocklists](https://github.com/hagezi/dns-blocklists)**, [2](https://gitlab.com/hagezi/mirror) / [Host Format](https://github.com/hagezi/dns-blocklists-legacy) - Multi-Source Domain Blocklist / Use Full Edition / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hagezi.md)
 * ⭐ **[OISD](https://oisd.nl/)** - Multi-Source Domain Blocklist / [GitHub](https://github.com/sjhgvr/oisd)
 * [hBlock](https://github.com/hectorm/hblock)
-* [Hosts File Aggregator](https://github.com/StevenBlack/hosts)
+* [StevenBlack Hosts](https://github.com/StevenBlack/hosts)
 * [Spamhaus](https://www.spamhaus.org/blocklists/) / [X](https://x.com/spamhaus)
 * [black-mirror](https://github.com/T145/black-mirror)
 * [Scam Blocklist](https://github.com/durablenapkin/scamblocklist)
@@ -164,7 +161,7 @@
 * ⭐ **[Whonix](https://www.whonix.org/)** / [Subreddit](https://www.reddit.com/r/Whonix) / [X](https://twitter.com/Whonix) / [Telegram](https://t.me/s/Whonix) / [GitHub](https://github.com/Whonix), **[Qubes](https://www.qubes-os.org/)** / [Subreddit](https://www.reddit.com/r/Qubes) / [X](https://twitter.com/QubesOS) / [GitHub](https://github.com/QubesOS) or **[Tails](https://tails.net/)** / [X](https://twitter.com/Tails_live) / [Telegram](https://t.me/torproject) / [GitHub](https://github.com/torproject) - Privacy-Focused Operating Systems
 * [W10Privacy](https://www.w10privacy.de/english-home/) - Privacy and Data Protection Tools
 * [Telemetry.md](https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89) - Disable Windows 10/11 Telemetry
-* [Agent DVR](https://www.ispyconnect.com/) / [Subreddit](https://www.reddit.com/r/ispyconnect/), [Frigate](https://frigate.video/) / [GitHub](https://github.com/blakeblackshear/frigate), [Smart Sec Cam](https://github.com/scottbarnesg/smart-sec-cam) or [ZoneMinder](https://zoneminder.com/) / [Discord](https://discord.gg/tHYyP9k66q) / [GitHub](https://github.com/ZoneMinder/ZoneMinder/) - Security Camera Systems
+* [Agent DVR](https://www.ispyconnect.com/) / [Subreddit](https://www.reddit.com/r/ispyconnect/), [Frigate](https://frigate.video/) / [GitHub](https://github.com/blakeblackshear/frigate) or [ZoneMinder](https://zoneminder.com/) / [Discord](https://discord.gg/tHYyP9k66q) / [GitHub](https://github.com/ZoneMinder/ZoneMinder/) - Security Camera Systems
 * [⁠go2rtc](https://github.com/AlexxIT/go2rtc) - Security Camera Bridge + Stream Manager 
 * [Team Elite](https://www.te-home.net/) - Security Software
 * [YourDigitalRights](https://yourdigitalrights.org/) - Get Organizations to Delete Your Personal Data
@@ -181,7 +178,6 @@
 * [ALPR Watch](https://alprwatch.org/), [⁠FlockHopper](https://dontgetflocked.com/), [⁠Flock Surveillance Map](https://uncensored.ai/flocksurveillance), [DeFlock](https://deflock.org/) / [Discord](https://discord.gg/aV7v4R3sKT) / [GitHub](https://github.com/FoggedLens/deflock) or [Panopti](https://panopti.ca/) / [GitHub](https://github.com/resistanceisliberty/panopti.ca) (Canada) - AI Automated License Plate Reader Cameras / ALPR Maps
 * [EyesOnFlock](https://eyesonflock.com/) - AI Flock Surveillance Database / Tracking
 * [Have I Been Flocked?](https://haveibeenflocked.com/) - Check to See if Your Plate Has Been Tagged by Flock Surveillance 
-* [ALPR Watch](https://alpr.watch/) - Track Local Government Surveillance Tech Meetings
 * [People Over Papers](https://iceout.org/en/) or [ICE Map](https://www.icemap.dev/) - ICE Activity Information / Maps
 * [If An Agent Knocks](https://docs.google.com/document/d/176Yds1p63Q3iaKilw0luChMzlJhODdiPvF2I4g9eIXo/) - Best Practices if Contacted by Agents
 
@@ -202,9 +198,8 @@
 * [⁠Whonix Wiki](https://www.whonix.org/wiki) - Educational Guide / [Forum](https://forums.whonix.org/)
 * [⁠Kicksecure Wiki](https://www.kicksecure.com/wiki) - Educational Guide / [Forum](https://forums.kicksecure.com/)
 * [OPSEC guide](https://whos-zycher.github.io/opsec-guide/) - Educational Guide
-* [paranoiaprivacy.wiki](https://codeberg.org/Sauul/paranoiaprivacy) - Educational Guide
 * [PrivSec](https://privsec.dev/) - Educational Guide / [GitHub](https://github.com/PrivSec-dev)
-* [Hostux](https://hostux.network/) - Privacy Tools / [Source Code](https://git.hostux.net/valere/hostux.network)
+* [Hostux](https://hostux.net/en/) - Privacy Tools / [Source Code](https://git.hostux.net/hostux.net/hostux.network)
 * [Privacy Settings](https://github.com/StellarSand/privacy-settings) - Privacy Setting Guides
 * [Privacy Not Included](https://www.mozillafoundation.org/en/privacynotincluded/) - Product Privacy Ratings
 * [EncryptedList](https://encryptedlist.xyz/) - List of Encrypted Services/Apps
@@ -215,7 +210,8 @@
 ## ▷ Network Security
 
 * ⭐ **[Safing Portmaster](https://safing.io/)** - Network Monitor / DNS Resolver / Firewall / [X](https://twitter.com/SafingIO) / [Discord](https://discord.com/invite/9ScnccuXaZ) / [GitHub](https://github.com/safing)
-* [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Client](https://i2pd.website/) / [Subreddit](https://www.reddit.com/r/i2p/) / [GitLab](https://i2pgit.org/)
+* [⁠DNSLeakTest](https://dnsleaktest.com/) - DNS Leak Test
+* [I2P](https://i2p.net/) - Encrypted Private Network Layer / [Client](https://i2pd.website/) / [Subreddit](https://www.reddit.com/r/i2p/) / [GitLab](https://i2pgit.org/)
 * [Freenet](https://freenet.org/) - Decentralized P2P Web / [GitHub](https://github.com/freenet/web)
 * [Hyphanet](https://www.hyphanet.org/) - Decentralized P2P Web / [GitHub](https://github.com/hyphanet)
 * [⁠RustNet](https://github.com/domcyrus/rustnet) - Network Monitor TUI 
@@ -244,9 +240,9 @@
 
 # ► Web Privacy
 
-* 🌐 **[Google Alt List](https://www.techspot.com/article/2752-all-google-alternatives/)**, [r/degoogle](https://www.reddit.com/r/degoogle) or [No More Google](https://nomoregoogle.com/) - Google App Alternatives
 * ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
 * ⭐ **[JustDeleteMe](https://justdeleteme.xyz/)** / [GitHub](https://github.com/jdm-contrib/jdm) or [JustDeleteAccount](https://www.justdeleteaccount.com/) - Find / Terminate Old Accounts
+* [r/degoogle](https://www.reddit.com/r/degoogle) - Google App Alternatives
 * [Phish Report](https://phish.report/), [OpenPhish](https://openphish.com/), [Netcraft Report](https://report.netcraft.com/report), [isitPhishing](https://isitphishing.org/), [PhishStats](https://phishstats.info/) / [Telegram](https://t.me/joinchat/AAAAAElZRwd0aBrYTaHHcQ) / [GitHub](https://github.com/eschultze/phishstats-api-network) or [PhishTank](https://phishtank.org/) - Report Phishing Sites
 * [ToS;DR](https://tosdr.org/) - Sites Privacy Policies / [Discord](https://discord.gg/tosdr) / [GitHub](https://github.com/tosdr)
 * [DNS Jumper](https://www.sordum.org/7952/dns-jumper-v2-3/) - DNS Switcher
@@ -267,7 +263,7 @@
 * ⭐ **[arkenfox](https://github.com/arkenfox/user.js)** - Firefox Privacy Tweak / [Video](https://youtu.be/F7-bW2y6lcI) / [GUI](https://arkenfox.github.io/gui/) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md)
 * ⭐ **[LibreWolf](https://librewolf.net/)** - Custom Privacy-Focused Firefox / [Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater), [2](https://codeberg.org/ltguillaume/librewolf-winupdater) / [Subreddit](https://www.reddit.com/r/LibreWolf) / [Source Code](https://codeberg.org/librewolf)
 * [Helium Browser](https://helium.computer/) - Privacy Chromium Browser
-* [Brave Browser](https://brave.com/) - Privacy Chromium Browser / [Debloat / Hardening](https://github.com/ChaoticSi1ence/SlimBrave-Neo) / [Subreddit](https://www.reddit.com/r/brave_browser/) / [GitHub](https://github.com/brave/brave-browser)
+* [Brave Browser](https://brave.com/) - Privacy Chromium Browser / [Debloat / Hardening](https://github.com/ChaoticSi1ence/SlimBrave-Neo) / [Origin](https://brave.com/origin/) (Linux) / [Subreddit](https://www.reddit.com/r/brave_browser/) / [GitHub](https://github.com/brave/brave-browser)
 * [⁠Phoenix](https://codeberg.org/celenity/Phoenix) - Firefox Privacy Tweak / [GitHub](https://github.com/celenityy/Phoenix) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md)
 * [⁠Chromium Hardening Guide](https://rknf404.github.io/chromium-hardening-guide/) - Chromium Security Focused Guide + Config / [GitHub](https://github.com/RKNF404/chromium-hardening-guide)
 * [Encrypted SNI](https://www.cloudflare.com/ssl/encrypted-sni/) - Cloudflare Browser Check
@@ -365,9 +361,9 @@
 * ⭐ **[CreepJS](https://abrahamjuliot.github.io/creepjs)**, [webkay](https://webkay.robinlinus.com/), [browserrecon](https://www.computec.ch/projekte/browserrecon/?s=scan), [TZP](https://arkenfox.github.io/TZP/tzp.html), [Cover Your Tracks](https://coveryourtracks.eff.org/), [⁠DeviceInfo](https://www.deviceinfo.me/), [⁠BrowserScan](https://www.browserscan.net/) or [PersonalData](https://personaldata.info/) - Tracking / Fingerprinting Tests
 * [ClearURLs](https://docs.clearurls.xyz) / [GitHub](https://github.com/ClearURLs/Addon) / [GitLab](https://gitlab.com/KevinRoebert/ClearUrls) or [URLCleaner](https://urlcleaner.net/) - Clean URLs / Remove Tracking Elements from URLs / Can Break Sites
 * [Webbkoll](https://webbkoll.5july.net/) or [Blacklight](https://themarkup.org/blacklight) - Site Tracking Info
-* [Data Removal Guide](https://inteltechniques.com/workbook.html) - Remove Online Data
+* [Data Removal Guide](https://inteltechniques.com/workbook) - Remove Online Data
 * [GameIndustry](https://gameindustry.eu/en/) - Block Trackers in Desktop / Mobile Games
-* [⁠I didn't set a cookie](https://kuber.studio/cookie/) - Browser Cookie Privacy Check
+* [⁠I didn't set a cookie](https://kuber.studio/cookie/) - Cookie Free Fingerprinting Demonstration
 * [BrowserLeaks](https://browserleaks.com/), [Do I leak?](https://www.top10vpn.com/tools/do-i-leak/) or [IPLeak.net](https://ipleak.net) - IP Leak Tests
 * [JShelter](https://jshelter.org/) / [Source Code](https://pagure.io/JShelter/webextension) or [Chameleon](https://github.com/00x127/Chameleon) - Prevent Fingerprinting / Extensions / [Warning](https://github.com/arkenfox/user.js/issues/1729#issuecomment-1739135479)
 * [Locale Switcher](https://chromewebstore.google.com/detail/locale-switcher/kngfjpghaokedippaapkfihdlmmlafcc), [2](https://addons.mozilla.org/en-US/firefox/addon/languageswitch) - Change Language Identifier / [GitHub](https://github.com/locale-switcher/locale-switcher)
@@ -381,7 +377,7 @@
 * 🌐 **[Search Engine Party](https://searchengine.party/)** - Privacy Search Engine Comparisons / [GitLab](https://gitlab.com/nitrohorse/search-engines-compare)
 * ↪️ **[SearX Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_searx_instances)** - SearX Instance Index / [Docs / Hosting](https://docs.searxng.org/) / [.onion](http://searxspbitokayvkhzhsnljde7rqmn7rvoga6e4waeub3h7ug3nghoad.onion/) / [Matrix](https://matrix.to/#/#searxng:matrix.org) / [GitHub](https://github.com/searxng)
 * ⭐ **[Brave Search](https://search.brave.com/)** - Independent / Supports DDG Bangs / [.onion](https://search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion/)
-* ⭐ **[DuckDuckGo](https://start.duckduckgo.com/)** - Metasearch / Bing Based / [AI Free](https://noai.duckduckgo.com/) / [Lite](https://lite.duckduckgo.com/) / [HTML](https://html.duckduckgo.com/) / [Bangs](https://duckduckgo.com/bangs) / [Bangs Extension](https://github.com/dmlls/yang) / [Bangs Script](https://greasyfork.org/scripts/588027) / [Subreddit](https://www.reddit.com/r/duckduckgo/)
+* ⭐ **[DuckDuckGo](https://start.duckduckgo.com/)** - Metasearch / Bing Based / [AI Free](https://noai.duckduckgo.com/) / [Lite](https://lite.duckduckgo.com/) / [HTML](https://html.duckduckgo.com/) / [.onion](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/) / [Bangs](https://duckduckgo.com/bangs) / [Bangs Extension](https://github.com/dmlls/yang) / [Bangs Script](https://greasyfork.org/scripts/588027) / [Subreddit](https://www.reddit.com/r/duckduckgo/)
 * ⭐ **[Startpage](https://www.startpage.com/)** - Google Based / [Subreddit](https://www.reddit.com/r/StartpageSearch/)
 * ⭐ **[4get](https://4get.ca/)** - Metasearch / [Instances](https://4get.ca/instances) / [Source Code](https://git.lolcat.ca/lolcat/4get)
 * [Degoog](https://github.com/degoog-org/degoog) - Metasearch / [GitHub](https://github.com/fccview/degoog)
@@ -427,7 +423,7 @@
 * [⁠Headscale](https://github.com/juanfont/headscale) - Self-Hosted Tailscale
 * [⁠Nebula](https://github.com/slackhq/nebula) or [ZeroTier](https://www.zerotier.com/) - Mesh VPN Server 
 * [IPsec VPN](https://github.com/hwdsl2/setup-ipsec-vpn) - VPN Server
-* [Cloudflare Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/) - Application Tunnel / VPN Alternative / [WireGuard](https://gist.github.com/WildeBeast2521/adabae243e0b83e344ceef0422c3fa6d)
+* [Cloudflare Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/) or [CF Quick Tunnels](https://try.cloudflare.com/) - Application Tunnel / VPN Alternative / [WireGuard](https://gist.github.com/WildeBeast2521/adabae243e0b83e344ceef0422c3fa6d)
 * [Cloud WireGuard Guide](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs) - WireGuard + Pi-hole VPN using Google Cloud
 * [tinc VPN](https://www.tinc-vpn.org/) - VPN Tunnel / [GitHub](https://github.com/gsliepen/tinc) / [GitLab](https://gitlab.com/gsliepen/tinc)
 * [WireHole](https://github.com/IAmStoxe/wirehole) - WireGuard + Pi-hole VPN / [Web UI](https://github.com/10h30/wirehole-ui)

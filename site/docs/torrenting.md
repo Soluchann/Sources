@@ -11,7 +11,7 @@
 # ► Torrent Sites
 
 * ⭐ **[RuTracker](https://rutracker.org/)**, [2](https://rutracker.net/) - Video / Audio / Comics / Magazines / Requires Sign-Up
-* ⭐ **RuTracker Tools** - [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) / [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Bypass Extension](https://rutracker.org/forum/viewtopic.php?t=5567607) / [Bypass Proxy](https://rutracker.org/forum/viewtopic.php?t=5403116)
+* ⭐ **RuTracker Tools** - [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) / [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Bypass Extension](https://rutracker.org/forum/viewtopic.php?t=5567607) / [Bypass Proxy](https://github.com/RutrackerOrg/rutracker-proxy)
 * ⭐ **[m0nkrus](https://rentry.co/FMHYB64#m0nkrus)** - Editing Software
 * ⭐ **Editing Software Tools** - [Block Telemetry](https://rentry.co/FMHYB64#a-dove-is-dumb) / [Quick Guide](https://rentry.co/FMHYB64#quick-guide)
 * [1337x](https://1337x.to/home/), [2](https://x1337x.cc/), [3](https://1337x.st/), [4](https://x1337x.ws/), [5](https://x1337x.eu/) - Video / Audio / [Mirrors](https://1337x-status.org/) / [User Ranks](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/1337x-ranks.md)
@@ -31,14 +31,15 @@
 
 * ⭐ **[ExT](https://ext.to/)**, [2](https://search.extto.com/) / [Proxy](https://extranet.torrentbay.st/)
 * ⭐ **[Knaben](https://knaben.org/)**
-* [TorrentProject](https://torrentproject.cc/), [2](https://torrentproject2.net/) - DHT-Based
 * [DaMagNet](https://damag.net/) - DHT-Based
+* [BT4G](https://bt4gprx.com/)
+* [FileMood](https://filemood.com/)
+* [TorrentProject](https://torrentproject.cc/), [2](https://torrentproject2.net/) - DHT-Based
 * [TorrentQuest](https://torrentquest.com/)
 * [ExtraTorrent](https://extratorrent.st/)
-* [Cleanbay](https://cleanbay.netlify.app/)
+* [Cleanbay](https://cleanbay.netlify.app/) / [GitHub](https://github.com/Gr3atWh173/cleanbay#contributing)
 * [Torrents-CSV](https://torrents-csv.com/) / [Source Code](https://codeberg.org/heretic/torrents-csv-server)
-* [FileMood](https://filemood.com/)
-* [BT4G](https://bt4gprx.com/)
+* [⁠The Black Hole Bay](https://theblackholebay.lol/) - DHT-Based / [Discord](https://discord.gg/Qb2GQqW3Uq)
 * [snowfl](https://snowfl.com/)
 * [Torlock](https://www.torlock.com/)
 * [uIndex](https://uindex.org/)
@@ -77,10 +78,11 @@
 ***
 
 * ⭐ **[qBittorrent](https://www.qbittorrent.org/)** / [2](https://qbittorrent.github.io/qBittorrent-website/) or [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Torrent Client / Windows, macOS, Linux / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_qbittorrent_tools) / [GitHub](https://github.com/qbittorrent/qBittorrent)
-* ⭐ **[Deluge](https://www.deluge-torrent.org/)** - Torrent Client / [Plugins](https://deluge-torrent.org/plugins/) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer) / Windows, macOS, Linux
+* ⭐ **[Deluge](https://www.deluge-torrent.org/)** - Torrent Client / [Plugins](https://deluge-torrent.org/plugins/) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer) / Windows, macOS, Linux
 * ⭐ **[Transmission](https://transmissionbt.com/)** - Torrent Client / Windows, macOS, Linux
-* ⭐ **[rTorrent](https://rakshasa.github.io/rtorrent/)** - Torrent Client / [Extended](https://rtorrent-ps.readthedocs.io/) / [Tools](https://pyrocore.readthedocs.org/), [2](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html) / Linux / [GitHub](https://github.com/rakshasa/rtorrent) 
-* [RuTorrent](https://github.com/Novik/ruTorrent) or [Flood](https://flood.js.org/) - RTorrent Web Frontends
+* ⭐ **[rTorrent](https://rtorrent.net/)** - Torrent Client / [Extended](https://rtorrent-ps.readthedocs.io/) / [Tools](https://pyrocore.readthedocs.io/), [2](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html) / Linux / [GitHub](https://github.com/rakshasa/rtorrent) 
+* [RuTorrent](https://github.com/Novik/ruTorrent) - RTorrent Web Frontend
+* [flood](https://flood.js.org/) - rTorrent, Transmission & qBittorrent WebUI / [GitHub](https://github.com/jesec/flood)
 * [torrent-control](https://github.com/Mika-/torrent-control) or [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder) - Easily Send Torrents to Client
 * [Tixati](https://tixati.com/) - Torrent Client / Windows, Linux, Android
 * [BiglyBT](https://www.biglybt.com/) - Torrent Client / Windows, macOS, Linux, Android
@@ -94,7 +96,6 @@
 * [kTorrent](https://apps.kde.org/ktorrent/), [2](https://invent.kde.org/network/ktorrent) - Torrent Client / Linux
 * [Rats Search](https://github.com/DEgITx/rats-search) - Torrent Search Client
 * [Download Torrents Through I2P](https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html)
-* [flood](https://flood.js.org/) - rTorrent, Transmission & qBittorrent WebUI / [GitHub](https://github.com/jesec/flood)
 * [r/Seedboxes](https://www.reddit.com/r/seedboxes/) - Seedbox Subreddit
 * [Seedbox Guide](https://seedboxgui.de/seedbox/) - Seedbox Comparisons
 
@@ -118,10 +119,10 @@
 ## ▷ Remote Torrenting
 
 * ↪️ **[Debrid / Leeches](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_debrid_.2F_leeches)**
-* ⭐ **[TorBox](https://torbox.app/)** - Freemium / 10GB / 10 Monthly Downloads / [Unofficial Mobile Client](https://github.com/93Pd9s8Jt/atba) / [Subreddit](https://www.reddit.com/r/TorBoxApp/) / [Discord](https://discord.com/invite/torbox) / [GitHub](https://github.com/TorBox-App) 
+* ⭐ **[TorBox](https://torbox.app/)** - Freemium / 10GB / 10 Monthly Downloads / [Hosters](https://torbox.app/hosters) / [Unofficial Mobile Client](https://github.com/93Pd9s8Jt/atba) / [Subreddit](https://www.reddit.com/r/TorBoxApp/) / [Discord](https://discord.com/invite/torbox) / [GitHub](https://github.com/TorBox-App) 
 * ⭐ **[Seedr](https://www.seedr.cc/)** - 2GB / [Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/AnjanaMadu/SeedrAPI)
 * [Torrent_To_Google_Drive_Downloader](https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb) - Google Colab / 15GB
-* [webtor](https://webtor.io/) - Unlimited / Download Speed Limited / No Sign-Up
+* [webtor](https://webtor.io/) - Unlimited / Download Speed Limited / No Sign-Up / [SDK](https://github.com/webtor-io/embed-sdk-js) / [Self-Host](https://github.com/webtor-io/self-hosted)
 * [⁠Magnet.diy](https://magnet.diy/) - 2.5GB
 * [⁠SonicBit](https://sonicbit.net/) - 4GB
 * [Multi-Up](https://multiup.io/en/upload/from-torrent) - 10 GB
@@ -160,7 +161,7 @@
 * ⭐ **[Magnet2Torrent](https://magnet2torrent.com/)** - Magnet to Torrent Converter
 * [Port Forwarding Guide](https://wispydocs.pages.dev/torrenting/#port-forwarding)
 * [PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper/blob/master/README.EN.md) - Block Unwanted Leeches / Peers
-* [btcache](https://btcache.me/), [iTorrents](https://itorrents.org) or [Torrage](https://torrage.info/) - Torrent Storage Cache
+* [btcache](https://btcache.me/), [iTorrents](https://itorrents.net/) or [Torrage](https://torrage.info/) - Torrent Storage Cache
 * [InfoTorrent](https://infotorrent.tnl.one/) - Check Torrent File Health
 * [TorrentTags](https://torrenttags.com/) - Check Torrents for Copyright Claims
 * [Magnet Link Generator](https://magnetlinkgenerator.com/) - Magnet Link Generator
