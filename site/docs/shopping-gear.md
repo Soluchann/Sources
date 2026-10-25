@@ -19,6 +19,7 @@
 * [Headphone Zone](https://www.headphonezone.in/) - Audiophile IEMs, headphones, DACs, and amps (India)
 * [Concept Kart](https://conceptkart.com/) - IEMs, headphones, DACs/amps, keyboards, and gadgets
 * [Luna Band](https://www.lunazone.com/products/luna-band) - Personalised health coach and sleep tracker wearable
+* [Lynk Crafts](https://lynkcrafts.com/) - Helio Strap, Whoop, and Fitbit bands / accessories (India)
 
 ***
 
