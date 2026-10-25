@@ -234,14 +234,18 @@ html.june {
   );
 }
 
-/* Keep the home hero mark greyscale even if the source asset has color */
+/* Home hero mark — keep natural colors for the LynkCrafts Matrix bat logo */
 .VPHomeHero .image-src img,
 .VPHomeHero .VPImage {
-  filter: grayscale(1) contrast(1.05);
+  filter: none;
+  max-width: min(520px, 100%);
+  width: auto;
+  height: auto;
+  object-fit: contain;
 }
 
 .VPHomeHero .image-bg {
-  filter: blur(var(--vp-home-hero-image-filter, 44px)) grayscale(1) !important;
+  filter: blur(var(--vp-home-hero-image-filter, 44px)) !important;
 }
 
 .base64 {
