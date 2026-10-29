@@ -194,23 +194,20 @@ html {
   --vp-home-hero-name-color: #000000;
   --vp-home-hero-name-background: #ffffff;
 
-  --vp-home-hero-image-background-image: linear-gradient(
-    135deg,
-    #e0e0e0 0%,
-    #ffffff 100%
-  );
-  --vp-home-hero-image-filter: blur(44px);
+  /* No colored circle behind the home hero logo */
+  --vp-home-hero-image-background-image: none;
+  --vp-home-hero-image-filter: none;
 }
 
 @media (min-width: 640px) {
   :root {
-    --vp-home-hero-image-filter: blur(56px);
+    --vp-home-hero-image-filter: none;
   }
 }
 
 @media (min-width: 960px) {
   :root {
-    --vp-home-hero-image-filter: blur(68px);
+    --vp-home-hero-image-filter: none;
   }
 }
 
@@ -227,25 +224,24 @@ html.june {
 .dark {
   --vp-home-hero-name-color: #ffffff;
   --vp-home-hero-name-background: #000000;
-  --vp-home-hero-image-background-image: linear-gradient(
-    135deg,
-    #1a1a1a 0%,
-    #000000 100%
-  );
+  --vp-home-hero-image-background-image: none;
 }
 
-/* Home hero mark — keep natural colors for the LynkCrafts Matrix bat logo */
+/* Home hero mark — pixel bat logo, no blur/circle backdrop */
 .VPHomeHero .image-src img,
 .VPHomeHero .VPImage {
   filter: none;
-  max-width: min(520px, 100%);
+  max-width: min(420px, 100%);
   width: auto;
   height: auto;
   object-fit: contain;
 }
 
 .VPHomeHero .image-bg {
-  filter: blur(var(--vp-home-hero-image-filter, 44px)) !important;
+  display: none !important;
+  background: none !important;
+  filter: none !important;
+  opacity: 0 !important;
 }
 
 .base64 {

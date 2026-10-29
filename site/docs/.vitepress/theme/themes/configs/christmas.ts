@@ -90,9 +90,8 @@ export const christmasTheme: Theme = {
         heroNameColor: 'transparent',
         heroNameBackground:
           '-webkit-linear-gradient(120deg, #BD2F2F 30%, #f9fafb)',
-        heroImageBackground:
-          'linear-gradient(-45deg, #BD2F2F 50%, #f9fafb 50%)',
-        heroImageFilter: 'blur(44px)'
+        heroImageBackground: 'none',
+        heroImageFilter: 'none'
       }
     },
     dark: {
@@ -157,8 +156,8 @@ export const christmasTheme: Theme = {
         heroNameColor: 'transparent',
         heroNameBackground:
           '-webkit-linear-gradient(120deg, #f9fafb 30%, #BD2F2F)',
-        heroImageBackground: 'linear-gradient(-45deg, #f9fafb 50%,#BD2F2F 50%)',
-        heroImageFilter: 'blur(44px)'
+        heroImageBackground: 'none',
+        heroImageFilter: 'none'
       }
     }
   }

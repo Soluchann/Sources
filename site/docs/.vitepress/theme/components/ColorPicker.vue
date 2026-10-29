@@ -128,9 +128,8 @@ const generateThemeFromColor = (colorName: ColorNames): Theme => {
           heroNameColor: 'transparent',
           heroNameBackground:
             '-webkit-linear-gradient(120deg, #c4b5fd 30%, #7bc5e4)',
-          heroImageBackground:
-            'linear-gradient(-45deg, #c4b5fd 50%, #47caff 50%)',
-          heroImageFilter: 'blur(44px)'
+          heroImageBackground: 'none',
+          heroImageFilter: 'none'
         }
       },
       dark: {
@@ -195,9 +194,8 @@ const generateThemeFromColor = (colorName: ColorNames): Theme => {
           heroNameColor: 'transparent',
           heroNameBackground:
             '-webkit-linear-gradient(120deg, #c4b5fd 30%, #7bc5e4)',
-          heroImageBackground:
-            'linear-gradient(-45deg, #c4b5fd 50%, #47caff 50%)',
-          heroImageFilter: 'blur(44px)'
+          heroImageBackground: 'none',
+          heroImageFilter: 'none'
         }
       }
     }

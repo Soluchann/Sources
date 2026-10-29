@@ -72,9 +72,8 @@ export const monochromeTheme: Theme = {
       home: {
         heroNameColor: '#000000',
         heroNameBackground: '#FFFFFF',
-        heroImageBackground:
-          'linear-gradient(135deg, #E0E0E0 0%, #FFFFFF 100%)',
-        heroImageFilter: 'blur(44px)'
+        heroImageBackground: 'none',
+        heroImageFilter: 'none'
       }
     },
     dark: {
@@ -144,9 +143,8 @@ export const monochromeTheme: Theme = {
       home: {
         heroNameColor: '#FFFFFF',
         heroNameBackground: '#000000',
-        heroImageBackground:
-          'linear-gradient(135deg, #1A1A1A 0%, #000000 100%)',
-        heroImageFilter: 'blur(44px)'
+        heroImageBackground: 'none',
+        heroImageFilter: 'none'
       }
     }
   }
