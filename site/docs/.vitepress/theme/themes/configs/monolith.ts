@@ -77,8 +77,8 @@ export const monolithTheme: Theme = {
       home: {
         heroNameColor: 'transparent',
         heroNameBackground: '-webkit-linear-gradient(120deg, #FFD700 20%, #4CAF50 50%, #2196F3 80%)',
-        heroImageBackground: 'linear-gradient(-45deg, #FFD700 20%, #4CAF50 50%, #2196F3 80%)',
-        heroImageFilter: 'blur(44px)'
+        heroImageBackground: 'none',
+        heroImageFilter: 'none'
       }
     },
     dark: {
@@ -148,8 +148,8 @@ export const monolithTheme: Theme = {
       home: {
         heroNameColor: 'transparent',
         heroNameBackground: '-webkit-linear-gradient(120deg, #FFD700 20%, #4CAF50 50%, #2196F3 80%)',
-        heroImageBackground: 'linear-gradient(-45deg, #FFD700 20%, #4CAF50 50%, #2196F3 80%)',
-        heroImageFilter: 'blur(44px)'
+        heroImageBackground: 'none',
+        heroImageFilter: 'none'
       }
     }
   }

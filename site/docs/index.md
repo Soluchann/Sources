@@ -10,7 +10,7 @@ hero:
     title: Unofficial Sources site (not fmhy.net)
     link: https://github.com/Soluchann/Sources
   image:
-    src: lynkcrafts-logo.webp
+    src: sources-logo.png
     alt: Sources Logo
   actions:
     - theme: brand
